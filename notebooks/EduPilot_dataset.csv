@@ -1,0 +1,121 @@
+id,user_query,job_role,company,location,interview_round,mock_question
+1,Help me prepare for Data Scientist at Microsoft in Boston. Focus on the OA round.,Data Scientist,Microsoft,Boston,OA,Running median from a data stream.
+2,Help me prepare for SRE at NVIDIA in Remote. Focus on the OA round.,SRE,NVIDIA,Remote,OA,Running median from a data stream.
+3,Help me prepare for Software Engineer at Airbnb in Toronto. Focus on the OA round.,Software Engineer,Airbnb,Toronto,OA,Dijkstra on sparse graphs.
+4,Help me prepare for Software Engineer at Amazon in Toronto. Focus on the OA round.,Software Engineer,Amazon,Toronto,OA,Longest substring without repeats.
+5,Help me prepare for SRE at Apple in NYC. Focus on the OA round.,SRE,Apple,NYC,OA,Dijkstra on sparse graphs.
+6,Help me prepare for ML Engineer at Microsoft in Austin. Focus on the OA round.,ML Engineer,Microsoft,Austin,OA,Dijkstra on sparse graphs.
+7,Help me prepare for Data Engineer at Uber in LA. Focus on the OA round.,Data Engineer,Uber,LA,OA,Dijkstra on sparse graphs.
+8,Help me prepare for Backend Engineer at Amazon in Boston. Focus on the OA round.,Backend Engineer,Amazon,Boston,OA,Running median from a data stream.
+9,Help me prepare for Software Engineer at Google in Chicago. Focus on the OA round.,Software Engineer,Google,Chicago,OA,Dijkstra on sparse graphs.
+10,Help me prepare for Data Engineer at Apple in Austin. Focus on the OA round.,Data Engineer,Apple,Austin,OA,Dijkstra on sparse graphs.
+11,Help me prepare for Data Scientist at Google in Austin. Focus on the OA round.,Data Scientist,Google,Austin,OA,Longest substring without repeats.
+12,Help me prepare for Security Engineer at Stripe in Vancouver. Focus on the OA round.,Security Engineer,Stripe,Vancouver,OA,Longest substring without repeats.
+13,Help me prepare for SRE at Uber in Chicago. Focus on the OA round.,SRE,Uber,Chicago,OA,Longest substring without repeats.
+14,Help me prepare for Backend Engineer at Uber in Toronto. Focus on the OA round.,Backend Engineer,Uber,Toronto,OA,Dijkstra on sparse graphs.
+15,Help me prepare for Software Engineer at Apple in Bay Area. Focus on the OA round.,Software Engineer,Apple,Bay Area,OA,Running median from a data stream.
+16,Help me prepare for Frontend Engineer at Google in Toronto. Focus on the OA round.,Frontend Engineer,Google,Toronto,OA,Longest substring without repeats.
+17,Help me prepare for ML Engineer at Airbnb in Boston. Focus on the OA round.,ML Engineer,Airbnb,Boston,OA,Dijkstra on sparse graphs.
+18,Help me prepare for ML Engineer at Google in LA. Focus on the OA round.,ML Engineer,Google,LA,OA,Longest substring without repeats.
+19,Help me prepare for Backend Engineer at Apple in Toronto. Focus on the OA round.,Backend Engineer,Apple,Toronto,OA,Dijkstra on sparse graphs.
+20,Help me prepare for ML Engineer at Netflix in Vancouver. Focus on the OA round.,ML Engineer,Netflix,Vancouver,OA,Longest substring without repeats.
+21,Help me prepare for ML Engineer at NVIDIA in Seattle. Focus on the OA round.,ML Engineer,NVIDIA,Seattle,OA,Running median from a data stream.
+22,Help me prepare for Data Scientist at Apple in Boston. Focus on the OA round.,Data Scientist,Apple,Boston,OA,Running median from a data stream.
+23,Help me prepare for SRE at NVIDIA in LA. Focus on the OA round.,SRE,NVIDIA,LA,OA,Longest substring without repeats.
+24,Help me prepare for Frontend Engineer at Apple in Chicago. Focus on the OA round.,Frontend Engineer,Apple,Chicago,OA,Running median from a data stream.
+25,Help me prepare for Software Engineer at Microsoft in Remote. Focus on the Technical round.,Software Engineer,Microsoft,Remote,Technical,Serialize/deserialize a binary tree.
+26,Help me prepare for ML Engineer at Netflix in LA. Focus on the Technical round.,ML Engineer,Netflix,LA,Technical,Join two large tables and handle skew.
+27,Help me prepare for Data Scientist at Apple in Boston. Focus on the Technical round.,Data Scientist,Apple,Boston,Technical,Implement mini-batch GD with early stopping.
+28,Help me prepare for Data Engineer at Meta in Vancouver. Focus on the Technical round.,Data Engineer,Meta,Vancouver,Technical,Implement mini-batch GD with early stopping.
+29,Help me prepare for Data Engineer at Amazon in Bay Area. Focus on the Technical round.,Data Engineer,Amazon,Bay Area,Technical,Daily user embeddings pipeline with real-time serving.
+30,Help me prepare for ML Engineer at Uber in Chicago. Focus on the Technical round.,ML Engineer,Uber,Chicago,Technical,Bias-variance tradeoff and regularization.
+31,Help me prepare for Backend Engineer at Uber in Boston. Focus on the Technical round.,Backend Engineer,Uber,Boston,Technical,Top-K frequent elements using a heap.
+32,Help me prepare for SRE at NVIDIA in Vancouver. Focus on the Technical round.,SRE,NVIDIA,Vancouver,Technical,Implement an LRU cache with O(1) ops.
+33,Help me prepare for Frontend Engineer at Apple in Bay Area. Focus on the Technical round.,Frontend Engineer,Apple,Bay Area,Technical,Find the longest consecutive sequence length.
+34,Help me prepare for Software Engineer at Netflix in Toronto. Focus on the Technical round.,Software Engineer,Netflix,Toronto,Technical,Serialize/deserialize a binary tree.
+35,Help me prepare for Frontend Engineer at Amazon in Austin. Focus on the Technical round.,Frontend Engineer,Amazon,Austin,Technical,Find the longest consecutive sequence length.
+36,Help me prepare for Backend Engineer at NVIDIA in Chicago. Focus on the Technical round.,Backend Engineer,NVIDIA,Chicago,Technical,Find the longest consecutive sequence length.
+37,Help me prepare for Software Engineer at Uber in Austin. Focus on the Technical round.,Software Engineer,Uber,Austin,Technical,Find the longest consecutive sequence length.
+38,Help me prepare for Security Engineer at Amazon in Bay Area. Focus on the Technical round.,Security Engineer,Amazon,Bay Area,Technical,Serialize/deserialize a binary tree.
+39,Help me prepare for Backend Engineer at Stripe in Boston. Focus on the Technical round.,Backend Engineer,Stripe,Boston,Technical,Implement an LRU cache with O(1) ops.
+40,Help me prepare for Data Engineer at Uber in Vancouver. Focus on the Technical round.,Data Engineer,Uber,Vancouver,Technical,Bias-variance tradeoff and regularization.
+41,Help me prepare for Backend Engineer at Google in Austin. Focus on the Technical round.,Backend Engineer,Google,Austin,Technical,Top-K frequent elements using a heap.
+42,Help me prepare for Security Engineer at NVIDIA in Bay Area. Focus on the Technical round.,Security Engineer,NVIDIA,Bay Area,Technical,Top-K frequent elements using a heap.
+43,Help me prepare for SRE at Amazon in NYC. Focus on the Technical round.,SRE,Amazon,NYC,Technical,Implement an LRU cache with O(1) ops.
+44,Help me prepare for Data Scientist at Amazon in LA. Focus on the Technical round.,Data Scientist,Amazon,LA,Technical,Implement mini-batch GD with early stopping.
+45,Help me prepare for SRE at Netflix in Boston. Focus on the Technical round.,SRE,Netflix,Boston,Technical,Serialize/deserialize a binary tree.
+46,Help me prepare for Data Scientist at NVIDIA in Remote. Focus on the Technical round.,Data Scientist,NVIDIA,Remote,Technical,Daily user embeddings pipeline with real-time serving.
+47,Help me prepare for SRE at Airbnb in Toronto. Focus on the Technical round.,SRE,Airbnb,Toronto,Technical,Find the longest consecutive sequence length.
+48,Help me prepare for Frontend Engineer at Uber in LA. Focus on the Technical round.,Frontend Engineer,Uber,LA,Technical,Top-K frequent elements using a heap.
+49,Help me prepare for Software Engineer at Meta in Seattle. Focus on the System Design round.,Software Engineer,Meta,Seattle,System Design,Design a real-time ride dispatch system.
+50,Help me prepare for Data Engineer at Google in Bay Area. Focus on the System Design round.,Data Engineer,Google,Bay Area,System Design,Design a URL shortener.
+51,Help me prepare for Frontend Engineer at Apple in Remote. Focus on the System Design round.,Frontend Engineer,Apple,Remote,System Design,Design a real-time ride dispatch system.
+52,Help me prepare for Frontend Engineer at Airbnb in Remote. Focus on the System Design round.,Frontend Engineer,Airbnb,Remote,System Design,Design logging ingestion at 10M events/sec.
+53,Help me prepare for SRE at Amazon in Austin. Focus on the System Design round.,SRE,Amazon,Austin,System Design,Design a real-time ride dispatch system.
+54,Help me prepare for ML Engineer at Airbnb in Austin. Focus on the System Design round.,ML Engineer,Airbnb,Austin,System Design,Design logging ingestion at 10M events/sec.
+55,Help me prepare for Security Engineer at Amazon in Boston. Focus on the System Design round.,Security Engineer,Amazon,Boston,System Design,Design a feature store for online inference.
+56,Help me prepare for Data Engineer at Microsoft in Austin. Focus on the System Design round.,Data Engineer,Microsoft,Austin,System Design,Design a URL shortener.
+57,Help me prepare for Frontend Engineer at Microsoft in Remote. Focus on the System Design round.,Frontend Engineer,Microsoft,Remote,System Design,Design a real-time ride dispatch system.
+58,Help me prepare for Data Scientist at Uber in Austin. Focus on the System Design round.,Data Scientist,Uber,Austin,System Design,Design a feature store for online inference.
+59,Help me prepare for Data Scientist at Netflix in NYC. Focus on the System Design round.,Data Scientist,Netflix,NYC,System Design,Design a real-time ride dispatch system.
+60,Help me prepare for Data Engineer at Microsoft in Bay Area. Focus on the System Design round.,Data Engineer,Microsoft,Bay Area,System Design,Design a feature store for online inference.
+61,Help me prepare for Security Engineer at Airbnb in Bay Area. Focus on the System Design round.,Security Engineer,Airbnb,Bay Area,System Design,Design a URL shortener.
+62,Help me prepare for Frontend Engineer at Microsoft in Seattle. Focus on the System Design round.,Frontend Engineer,Microsoft,Seattle,System Design,Design a feature store for online inference.
+63,Help me prepare for Frontend Engineer at Microsoft in Boston. Focus on the System Design round.,Frontend Engineer,Microsoft,Boston,System Design,Design a real-time ride dispatch system.
+64,Help me prepare for Data Scientist at Amazon in Seattle. Focus on the System Design round.,Data Scientist,Amazon,Seattle,System Design,Design a real-time ride dispatch system.
+65,Help me prepare for Software Engineer at Microsoft in Vancouver. Focus on the System Design round.,Software Engineer,Microsoft,Vancouver,System Design,Design a URL shortener.
+66,Help me prepare for SRE at Uber in Chicago. Focus on the System Design round.,SRE,Uber,Chicago,System Design,Design a feature store for online inference.
+67,Help me prepare for Data Engineer at NVIDIA in LA. Focus on the System Design round.,Data Engineer,NVIDIA,LA,System Design,Design logging ingestion at 10M events/sec.
+68,Help me prepare for Software Engineer at Airbnb in Seattle. Focus on the System Design round.,Software Engineer,Airbnb,Seattle,System Design,Design a URL shortener.
+69,Help me prepare for SRE at Uber in Vancouver. Focus on the System Design round.,SRE,Uber,Vancouver,System Design,Design a URL shortener.
+70,Help me prepare for ML Engineer at NVIDIA in Boston. Focus on the System Design round.,ML Engineer,NVIDIA,Boston,System Design,Design a feature store for online inference.
+71,Help me prepare for Backend Engineer at Meta in Remote. Focus on the System Design round.,Backend Engineer,Meta,Remote,System Design,Design logging ingestion at 10M events/sec.
+72,Help me prepare for Data Scientist at Apple in LA. Focus on the System Design round.,Data Scientist,Apple,LA,System Design,Design a feature store for online inference.
+73,Help me prepare for Frontend Engineer at Airbnb in Bay Area. Focus on the Behavioral/HR round.,Frontend Engineer,Airbnb,Bay Area,Behavioral/HR,Describe a conflict and how you resolved it.
+74,Help me prepare for Security Engineer at Google in Seattle. Focus on the Behavioral/HR round.,Security Engineer,Google,Seattle,Behavioral/HR,Tell me about a time you handled ambiguity.
+75,Help me prepare for Frontend Engineer at Airbnb in Toronto. Focus on the Behavioral/HR round.,Frontend Engineer,Airbnb,Toronto,Behavioral/HR,Tell me about a time you handled ambiguity.
+76,Help me prepare for Data Scientist at Amazon in NYC. Focus on the Behavioral/HR round.,Data Scientist,Amazon,NYC,Behavioral/HR,Tell me about a time you handled ambiguity.
+77,Help me prepare for Backend Engineer at Uber in Chicago. Focus on the Behavioral/HR round.,Backend Engineer,Uber,Chicago,Behavioral/HR,Describe a conflict and how you resolved it.
+78,Help me prepare for ML Engineer at NVIDIA in Boston. Focus on the Behavioral/HR round.,ML Engineer,NVIDIA,Boston,Behavioral/HR,Tell me about a time you handled ambiguity.
+79,Help me prepare for SRE at Amazon in Toronto. Focus on the Behavioral/HR round.,SRE,Amazon,Toronto,Behavioral/HR,Tell me about a time you handled ambiguity.
+80,Help me prepare for Frontend Engineer at Stripe in Seattle. Focus on the Behavioral/HR round.,Frontend Engineer,Stripe,Seattle,Behavioral/HR,Tell me about a time you handled ambiguity.
+81,Help me prepare for Security Engineer at Uber in LA. Focus on the Behavioral/HR round.,Security Engineer,Uber,LA,Behavioral/HR,Tell me about a time you handled ambiguity.
+82,Help me prepare for Security Engineer at Uber in Seattle. Focus on the Behavioral/HR round.,Security Engineer,Uber,Seattle,Behavioral/HR,Describe a conflict and how you resolved it.
+83,Help me prepare for Data Scientist at NVIDIA in Bay Area. Focus on the Behavioral/HR round.,Data Scientist,NVIDIA,Bay Area,Behavioral/HR,Tell me about a time you handled ambiguity.
+84,Help me prepare for Security Engineer at Airbnb in Remote. Focus on the Behavioral/HR round.,Security Engineer,Airbnb,Remote,Behavioral/HR,Tell me about a time you handled ambiguity.
+85,Help me prepare for Backend Engineer at Apple in Austin. Focus on the Behavioral/HR round.,Backend Engineer,Apple,Austin,Behavioral/HR,Tell me about a time you handled ambiguity.
+86,Help me prepare for Security Engineer at Meta in Vancouver. Focus on the Behavioral/HR round.,Security Engineer,Meta,Vancouver,Behavioral/HR,Tell me about a time you handled ambiguity.
+87,Help me prepare for ML Engineer at NVIDIA in Chicago. Focus on the Behavioral/HR round.,ML Engineer,NVIDIA,Chicago,Behavioral/HR,Describe a conflict and how you resolved it.
+88,Help me prepare for Frontend Engineer at Meta in Austin. Focus on the Behavioral/HR round.,Frontend Engineer,Meta,Austin,Behavioral/HR,Describe a conflict and how you resolved it.
+89,Help me prepare for Data Scientist at Amazon in Remote. Focus on the Behavioral/HR round.,Data Scientist,Amazon,Remote,Behavioral/HR,Describe a conflict and how you resolved it.
+90,Help me prepare for Software Engineer at Stripe in Seattle. Focus on the Behavioral/HR round.,Software Engineer,Stripe,Seattle,Behavioral/HR,Describe a conflict and how you resolved it.
+91,Help me prepare for Security Engineer at Microsoft in Chicago. Focus on the Behavioral/HR round.,Security Engineer,Microsoft,Chicago,Behavioral/HR,Describe a conflict and how you resolved it.
+92,Help me prepare for Security Engineer at Airbnb in Seattle. Focus on the Behavioral/HR round.,Security Engineer,Airbnb,Seattle,Behavioral/HR,Tell me about a time you handled ambiguity.
+93,Help me prepare for Security Engineer at Meta in Boston. Focus on the Behavioral/HR round.,Security Engineer,Meta,Boston,Behavioral/HR,Describe a conflict and how you resolved it.
+94,Help me prepare for Backend Engineer at Amazon in NYC. Focus on the Behavioral/HR round.,Backend Engineer,Amazon,NYC,Behavioral/HR,Tell me about a time you handled ambiguity.
+95,Help me prepare for Frontend Engineer at Microsoft in Remote. Focus on the Behavioral/HR round.,Frontend Engineer,Microsoft,Remote,Behavioral/HR,Tell me about a time you handled ambiguity.
+96,Help me prepare for Backend Engineer at Netflix in Seattle. Focus on the Behavioral/HR round.,Backend Engineer,Netflix,Seattle,Behavioral/HR,Describe a conflict and how you resolved it.
+97,Help me prepare for ML Engineer at Microsoft in Vancouver. Focus on the ML Case Study round.,ML Engineer,Microsoft,Vancouver,ML Case Study,Join two large tables and handle skew.
+98,Help me prepare for ML Engineer at Google in Chicago. Focus on the ML Case Study round.,ML Engineer,Google,Chicago,ML Case Study,Daily user embeddings pipeline with real-time serving.
+99,Help me prepare for Software Engineer at Netflix in NYC. Focus on the ML Case Study round.,Software Engineer,Netflix,NYC,ML Case Study,Detect data drift and trigger retraining.
+100,Help me prepare for Data Engineer at Meta in Bay Area. Focus on the ML Case Study round.,Data Engineer,Meta,Bay Area,ML Case Study,Join two large tables and handle skew.
+101,Help me prepare for Security Engineer at Google in LA. Focus on the ML Case Study round.,Security Engineer,Google,LA,ML Case Study,Detect data drift and trigger retraining.
+102,Help me prepare for Security Engineer at Airbnb in Austin. Focus on the ML Case Study round.,Security Engineer,Airbnb,Austin,ML Case Study,Detect data drift and trigger retraining.
+103,Help me prepare for Backend Engineer at Airbnb in Toronto. Focus on the ML Case Study round.,Backend Engineer,Airbnb,Toronto,ML Case Study,Detect data drift and trigger retraining.
+104,Help me prepare for SRE at Airbnb in Remote. Focus on the ML Case Study round.,SRE,Airbnb,Remote,ML Case Study,Detect data drift and trigger retraining.
+105,Help me prepare for Security Engineer at Apple in Bay Area. Focus on the ML Case Study round.,Security Engineer,Apple,Bay Area,ML Case Study,Detect data drift and trigger retraining.
+106,Help me prepare for Frontend Engineer at Uber in NYC. Focus on the ML Case Study round.,Frontend Engineer,Uber,NYC,ML Case Study,Detect data drift and trigger retraining.
+107,Help me prepare for Data Scientist at Microsoft in Remote. Focus on the ML Case Study round.,Data Scientist,Microsoft,Remote,ML Case Study,Bias-variance tradeoff and regularization.
+108,Help me prepare for Software Engineer at Netflix in Vancouver. Focus on the ML Case Study round.,Software Engineer,Netflix,Vancouver,ML Case Study,Detect data drift and trigger retraining.
+109,Help me prepare for SRE at Apple in Seattle. Focus on the ML Case Study round.,SRE,Apple,Seattle,ML Case Study,Detect data drift and trigger retraining.
+110,Help me prepare for ML Engineer at Airbnb in Bay Area. Focus on the ML Case Study round.,ML Engineer,Airbnb,Bay Area,ML Case Study,Join two large tables and handle skew.
+111,Help me prepare for Data Engineer at Netflix in Chicago. Focus on the ML Case Study round.,Data Engineer,Netflix,Chicago,ML Case Study,Daily user embeddings pipeline with real-time serving.
+112,Help me prepare for ML Engineer at Meta in Toronto. Focus on the ML Case Study round.,ML Engineer,Meta,Toronto,ML Case Study,Daily user embeddings pipeline with real-time serving.
+113,Help me prepare for Backend Engineer at Microsoft in Austin. Focus on the ML Case Study round.,Backend Engineer,Microsoft,Austin,ML Case Study,Detect data drift and trigger retraining.
+114,Help me prepare for Frontend Engineer at Stripe in Vancouver. Focus on the ML Case Study round.,Frontend Engineer,Stripe,Vancouver,ML Case Study,Evaluate a recommender with cold-start users.
+115,Help me prepare for Security Engineer at Meta in Remote. Focus on the ML Case Study round.,Security Engineer,Meta,Remote,ML Case Study,Detect data drift and trigger retraining.
+116,Help me prepare for Software Engineer at Microsoft in NYC. Focus on the ML Case Study round.,Software Engineer,Microsoft,NYC,ML Case Study,Evaluate a recommender with cold-start users.
+117,Help me prepare for Frontend Engineer at Google in Toronto. Focus on the ML Case Study round.,Frontend Engineer,Google,Toronto,ML Case Study,Detect data drift and trigger retraining.
+118,Help me prepare for Security Engineer at Google in Seattle. Focus on the ML Case Study round.,Security Engineer,Google,Seattle,ML Case Study,Detect data drift and trigger retraining.
+119,Help me prepare for Data Scientist at Amazon in Chicago. Focus on the ML Case Study round.,Data Scientist,Amazon,Chicago,ML Case Study,Bias-variance tradeoff and regularization.
+120,Help me prepare for Frontend Engineer at Airbnb in Vancouver. Focus on the ML Case Study round.,Frontend Engineer,Airbnb,Vancouver,ML Case Study,Detect data drift and trigger retraining.
