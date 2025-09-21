@@ -1,0 +1,841 @@
+prompt,target,is_member,avg_logp_true,bg_mu_avg,bg_sd_avg,z_score
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at Microsoft in Vancouver. Focus on the ML Case Study round.
+role: ML Engineer
+company: Microsoft
+location: Vancouver
+round: ML Case Study
+target:",Join two large tables and handle skew.,1,-4.053069274544762e-06,-2.321326134267724,0.5971430904310582,3.887379956992825
+"task: generate interview mock question
+query: Help me prepare for Data Engineer at Google in Bay Area. Focus on the System Design round.
+role: Data Engineer
+company: Google
+location: Bay Area
+round: System Design
+target:",Design a URL shortener.,1,-6.779862806690132e-06,-3.5852360978610602,0.14288319019318851,25.092030162195858
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Amazon in LA. Focus on the Technical round.
+role: Data Scientist
+company: Amazon
+location: LA
+round: Technical
+target:",Implement mini-batch GD with early stopping.,1,-7.718677800701412e-06,-1.7575835483869593,0.8599825770760822,2.0437342296920358
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Airbnb in Toronto. Focus on the Behavioral/HR round.
+role: Frontend Engineer
+company: Airbnb
+location: Toronto
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,1,-1.885669584661449e-06,-2.1268443825200185,0.5622654974927961,3.7826302811292165
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Airbnb in Seattle. Focus on the Behavioral/HR round.
+role: Security Engineer
+company: Airbnb
+location: Seattle
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,1,-7.911152013963143e-07,-1.4893340075564991,0.29920468398821093,4.9776400442313244
+"task: generate interview mock question
+query: Help me prepare for Data Engineer at Amazon in Bay Area. Focus on the Technical round.
+role: Data Engineer
+company: Amazon
+location: Bay Area
+round: Technical
+target:",Daily user embeddings pipeline with real-time serving.,1,-4.010493282158038e-06,-1.6797256968625476,0.33872819703916224,4.95890717410533
+"task: generate interview mock question
+query: Help me prepare for SRE at Amazon in Austin. Focus on the System Design round.
+role: SRE
+company: Amazon
+location: Austin
+round: System Design
+target:",Design a real-time ride dispatch system.,1,-0.00019469177756031066,-2.5555274246565514,0.43912538887485025,5.819141406117275
+"task: generate interview mock question
+query: Help me prepare for Data Engineer at Microsoft in Austin. Focus on the System Design round.
+role: Data Engineer
+company: Microsoft
+location: Austin
+round: System Design
+target:",Design a URL shortener.,1,-3.099407645768412e-06,-2.148333576607947,1.3419627180587994,1.6008868564604717
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Netflix in NYC. Focus on the System Design round.
+role: Data Scientist
+company: Netflix
+location: NYC
+round: System Design
+target:",Design a real-time ride dispatch system.,1,-2.0242150621713185e-05,-2.1689951400112184,0.3571567656089641,6.072893213047281
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Apple in Boston. Focus on the Technical round.
+role: Data Scientist
+company: Apple
+location: Boston
+round: Technical
+target:",Implement mini-batch GD with early stopping.,1,-4.5994353626632705e-06,-1.9146056544153063,0.7389755044781422,2.5908856834598564
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Uber in Austin. Focus on the Technical round.
+role: Software Engineer
+company: Uber
+location: Austin
+round: Technical
+target:",Find the longest consecutive sequence length.,1,-2.0065910755609464e-05,-1.9494198406599734,0.6609806766741363,2.949253803542388
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Google in Austin. Focus on the OA round.
+role: Data Scientist
+company: Google
+location: Austin
+round: OA
+target:",Longest substring without repeats.,1,-7.814819068605392e-07,-2.4593929422390612,0.17989463609243292,13.671292341887709
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Netflix in Vancouver. Focus on the ML Case Study round.
+role: Software Engineer
+company: Netflix
+location: Vancouver
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,1,-6.484830367180487e-06,-1.7281399948004854,0.28687128785045973,6.024072757225393
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Google in Austin. Focus on the Technical round.
+role: Backend Engineer
+company: Google
+location: Austin
+round: Technical
+target:",Top-K frequent elements using a heap.,1,-3.619604695747927e-06,-1.6626793131018156,0.38125104770601753,4.361104588436982
+"task: generate interview mock question
+query: Help me prepare for SRE at Amazon in NYC. Focus on the Technical round.
+role: SRE
+company: Amazon
+location: NYC
+round: Technical
+target:",Implement an LRU cache with O(1) ops.,1,-6.643856366702798e-06,-1.4908133735254725,0.27232077918454056,5.474450881542343
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Amazon in Toronto. Focus on the OA round.
+role: Software Engineer
+company: Amazon
+location: Toronto
+round: OA
+target:",Longest substring without repeats.,1,-5.695548875577593e-07,-2.812562687715757,0.6096416793021191,4.613467572263957
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Stripe in Vancouver. Focus on the OA round.
+role: Security Engineer
+company: Stripe
+location: Vancouver
+round: OA
+target:",Longest substring without repeats.,1,-1.589449916286747e-06,-2.2194974397793747,0.4259307247887365,5.210931546275132
+"task: generate interview mock question
+query: Help me prepare for SRE at Uber in Chicago. Focus on the OA round.
+role: SRE
+company: Uber
+location: Chicago
+round: OA
+target:",Longest substring without repeats.,1,-1.3112973329631871e-06,-2.642537935287791,0.5663586368496305,4.665836189396821
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Apple in Austin. Focus on the Behavioral/HR round.
+role: Backend Engineer
+company: Apple
+location: Austin
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,1,-5.635342027086381e-07,-2.252064789545353,0.5760380948368857,3.909575158651369
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Uber in NYC. Focus on the ML Case Study round.
+role: Frontend Engineer
+company: Uber
+location: NYC
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,1,-1.2397747001494764e-06,-2.383684132099653,0.9397169419346396,2.5365966983819113
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Microsoft in Vancouver. Focus on the System Design round.
+role: Software Engineer
+company: Microsoft
+location: Vancouver
+round: System Design
+target:",Design a URL shortener.,1,-1.6242180415862927e-06,-3.3653312283410957,0.9476090186057167,3.551390434289765
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Stripe in Seattle. Focus on the Behavioral/HR round.
+role: Software Engineer
+company: Stripe
+location: Seattle
+round: Behavioral/HR
+target:",Describe a conflict and how you resolved it.,1,-1.1722221784954005e-06,-2.2794686139502556,0.627493426094283,3.632655493964616
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Meta in Remote. Focus on the ML Case Study round.
+role: Security Engineer
+company: Meta
+location: Remote
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,1,-2.014629897334899e-06,-1.2371286409625213,0.724165855339919,1.7083470826609526
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at NVIDIA in Boston. Focus on the Behavioral/HR round.
+role: ML Engineer
+company: NVIDIA
+location: Boston
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,1,-8.257631792334192e-06,-1.826792260156518,0.4477632891482788,4.079798515862202
+"task: generate interview mock question
+query: Help me prepare for SRE at Uber in Vancouver. Focus on the System Design round.
+role: SRE
+company: Uber
+location: Vancouver
+round: System Design
+target:",Design a URL shortener.,1,-9.536402091628832e-06,-2.9856921099058087,0.7809774436978617,3.823007434589614
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Airbnb in Seattle. Focus on the System Design round.
+role: Software Engineer
+company: Airbnb
+location: Seattle
+round: System Design
+target:",Design a URL shortener.,1,-1.6300824406786266e-05,-3.266812171428798,0.7155546376377657,4.565403812333527
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Uber in LA. Focus on the Behavioral/HR round.
+role: Security Engineer
+company: Uber
+location: LA
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,1,-5.51601028658469e-06,-0.9684523687123437,0.6028666686984753,1.6064030456233889
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Microsoft in Remote. Focus on the Technical round.
+role: Software Engineer
+company: Microsoft
+location: Remote
+round: Technical
+target:",Serialize/deserialize a binary tree.,1,-6.019923598145566e-06,-1.5797323174027844,0.48968499455982634,3.226005115593115
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Google in Toronto. Focus on the OA round.
+role: Frontend Engineer
+company: Google
+location: Toronto
+round: OA
+target:",Longest substring without repeats.,1,-3.4702748519666704e-06,-2.158446336043363,0.2584859863920328,8.35032837136056
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Microsoft in Chicago. Focus on the Behavioral/HR round.
+role: Security Engineer
+company: Microsoft
+location: Chicago
+round: Behavioral/HR
+target:",Describe a conflict and how you resolved it.,1,-6.556505614443454e-07,-1.7352482264681341,0.5285015401759153,3.2833349364317534
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Meta in Vancouver. Focus on the Behavioral/HR round.
+role: Security Engineer
+company: Meta
+location: Vancouver
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,1,-5.7869242843209484e-06,-0.9614835074562817,0.47388577928681186,2.028922923112403
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Apple in Bay Area. Focus on the OA round.
+role: Software Engineer
+company: Apple
+location: Bay Area
+round: OA
+target:",Running median from a data stream.,1,-5.404066333699793e-06,-2.603241228813917,0.436810640837656,5.9596437938312405
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Uber in Austin. Focus on the System Design round.
+role: Data Scientist
+company: Uber
+location: Austin
+round: System Design
+target:",Design a feature store for online inference.,1,-1.7236398690373222e-05,-2.542999348481628,0.6035135602860958,4.213628788850139
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Meta in Austin. Focus on the Behavioral/HR round.
+role: Frontend Engineer
+company: Meta
+location: Austin
+round: Behavioral/HR
+target:",Describe a conflict and how you resolved it.,1,-8.672116254020471e-06,-1.3446540523290855,0.34283891406378597,3.9220908859915977
+"task: generate interview mock question
+query: Help me prepare for Data Engineer at Netflix in Chicago. Focus on the ML Case Study round.
+role: Data Engineer
+company: Netflix
+location: Chicago
+round: ML Case Study
+target:",Daily user embeddings pipeline with real-time serving.,1,-3.405948516342583e-06,-1.1836817596661007,0.554041610167375,2.1364430613072494
+"task: generate interview mock question
+query: Help me prepare for SRE at NVIDIA in Remote. Focus on the OA round.
+role: SRE
+company: NVIDIA
+location: Remote
+round: OA
+target:",Running median from a data stream.,1,-1.7351535947780154e-06,-1.9946763013156013,0.7903539243147416,2.523773849660383
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Amazon in Remote. Focus on the Behavioral/HR round.
+role: Data Scientist
+company: Amazon
+location: Remote
+round: Behavioral/HR
+target:",Describe a conflict and how you resolved it.,1,-3.0994193946997197e-06,-1.6834364420054664,0.567495055262848,2.9664282128526245
+"task: generate interview mock question
+query: Help me prepare for SRE at Netflix in Boston. Focus on the Technical round.
+role: SRE
+company: Netflix
+location: Boston
+round: Technical
+target:",Serialize/deserialize a binary tree.,1,-3.53649920431021e-06,-2.1861301244955667,0.6209805825676221,3.520442747110056
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Uber in Seattle. Focus on the Behavioral/HR round.
+role: Security Engineer
+company: Uber
+location: Seattle
+round: Behavioral/HR
+target:",Describe a conflict and how you resolved it.,1,-2.0014997652040375e-05,-1.2538634528201649,0.37313540746230883,3.360290695407045
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Netflix in Seattle. Focus on the Behavioral/HR round.
+role: Backend Engineer
+company: Netflix
+location: Seattle
+round: Behavioral/HR
+target:",Describe a conflict and how you resolved it.,1,-1.1860585790721072e-05,-1.8631493258914857,0.9504895723041146,1.960187170480155
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Uber in Toronto. Focus on the OA round.
+role: Backend Engineer
+company: Uber
+location: Toronto
+round: OA
+target:",Dijkstra on sparse graphs.,1,-7.285002025623276e-07,-2.1886458637502866,0.3666500085212576,5.969303380292137
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Microsoft in Boston. Focus on the OA round.
+role: Data Scientist
+company: Microsoft
+location: Boston
+round: OA
+target:",Running median from a data stream.,1,-4.476934307480364e-06,-2.0509625253141293,0.6334767050821845,3.2376218918953614
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Amazon in NYC. Focus on the Behavioral/HR round.
+role: Data Scientist
+company: Amazon
+location: NYC
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,1,-2.0157127749815286e-06,-2.0345510225873586,0.5798404273737177,3.5088084769972068
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Uber in Chicago. Focus on the Behavioral/HR round.
+role: Backend Engineer
+company: Uber
+location: Chicago
+round: Behavioral/HR
+target:",Describe a conflict and how you resolved it.,1,-7.748594719396601e-07,-1.9571158670964361,0.33834371623059006,5.784399113542689
+"task: generate interview mock question
+query: Help me prepare for SRE at Airbnb in Toronto. Focus on the Technical round.
+role: SRE
+company: Airbnb
+location: Toronto
+round: Technical
+target:",Find the longest consecutive sequence length.,1,-1.3668956737264854e-05,-1.645608290857161,0.5555544024116584,2.9620764676814857
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Google in LA. Focus on the ML Case Study round.
+role: Security Engineer
+company: Google
+location: LA
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,1,-1.2874582340231651e-06,-1.9755250493795753,0.8418965079270847,2.346516161214958
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Stripe in Seattle. Focus on the Behavioral/HR round.
+role: Frontend Engineer
+company: Stripe
+location: Seattle
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,1,-6.935806589415071e-07,-1.8619569414724013,0.7573179108822042,2.458619056985907
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Airbnb in Bay Area. Focus on the Behavioral/HR round.
+role: Frontend Engineer
+company: Airbnb
+location: Bay Area
+round: Behavioral/HR
+target:",Describe a conflict and how you resolved it.,1,-1.4404419428927646e-06,-1.3563090253494634,0.3053449092503614,4.441887006524296
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at Google in Chicago. Focus on the ML Case Study round.
+role: ML Engineer
+company: Google
+location: Chicago
+round: ML Case Study
+target:",Daily user embeddings pipeline with real-time serving.,1,-2.963186227096712e-06,-1.380191248520963,0.1729077610364176,7.982222874565142
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Google in Seattle. Focus on the Behavioral/HR round.
+role: Security Engineer
+company: Google
+location: Seattle
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,1,-9.645102007690182e-07,-1.3712208380477904,0.6257743061273522,2.19123709636383
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at NVIDIA in Boston. Focus on the System Design round.
+role: ML Engineer
+company: NVIDIA
+location: Boston
+round: System Design
+target:",Design a feature store for online inference.,1,-0.00010873636918444671,-2.061743948782067,0.3328980050929373,6.19299359224854
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at NVIDIA in Bay Area. Focus on the Technical round.
+role: Security Engineer
+company: NVIDIA
+location: Bay Area
+round: Technical
+target:",Top-K frequent elements using a heap.,1,-2.3625055848923756e-06,-1.6263612819104944,0.10386407501680534,15.65853177955672
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Netflix in Toronto. Focus on the Technical round.
+role: Software Engineer
+company: Netflix
+location: Toronto
+round: Technical
+target:",Serialize/deserialize a binary tree.,1,-4.817940858252327e-06,-2.1031072519578395,0.34263776380323946,6.137976184156668
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Netflix in NYC. Focus on the ML Case Study round.
+role: Software Engineer
+company: Netflix
+location: NYC
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,1,-1.0251987977178777e-06,-2.1742145039750773,0.5214297463464361,4.169715084362946
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Microsoft in Remote. Focus on the System Design round.
+role: Frontend Engineer
+company: Microsoft
+location: Remote
+round: System Design
+target:",Design a real-time ride dispatch system.,1,-8.16019679820847e-06,-1.9370966156775793,0.32050935679997467,6.043781294939512
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Uber in Boston. Focus on the Technical round.
+role: Backend Engineer
+company: Uber
+location: Boston
+round: Technical
+target:",Top-K frequent elements using a heap.,1,-4.367329723951504e-06,-1.9687784350443631,0.21507294488274356,9.153982937221615
+"task: generate interview mock question
+query: Help me prepare for SRE at Airbnb in Remote. Focus on the ML Case Study round.
+role: SRE
+company: Airbnb
+location: Remote
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,1,-9.2983118427368e-07,-2.705202171481504,0.5450331886779826,4.963369750403605
+"task: generate interview mock question
+query: Help me prepare for SRE at NVIDIA in Vancouver. Focus on the Technical round.
+role: SRE
+company: NVIDIA
+location: Vancouver
+round: Technical
+target:",Implement an LRU cache with O(1) ops.,1,-5.976301807961733e-06,-1.771373048237216,0.2716838645966934,6.519956842357752
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at NVIDIA in Chicago. Focus on the Behavioral/HR round.
+role: ML Engineer
+company: NVIDIA
+location: Chicago
+round: Behavioral/HR
+target:",Describe a conflict and how you resolved it.,1,-2.374235916999699e-06,-1.2838654408087486,0.3746092146766047,3.427206316003663
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Microsoft in Boston. Focus on the System Design round.
+role: Frontend Engineer
+company: Microsoft
+location: Boston
+round: System Design
+target:",Design a real-time ride dispatch system.,1,-2.3265811064380918e-05,-1.8944874876312652,0.49823006630237787,3.8023883943415866
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Apple in Bay Area. Focus on the Technical round.
+role: Frontend Engineer
+company: Apple
+location: Bay Area
+round: Technical
+target:",Find the longest consecutive sequence length.,1,-5.510051974388901e-06,-2.0945693363652595,0.06700855860778883,31.25815373187002
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at Airbnb in Austin. Focus on the System Design round.
+role: ML Engineer
+company: Airbnb
+location: Austin
+round: System Design
+target:",Design logging ingestion at 10M events/sec.,1,-6.020010303307063e-06,-1.865319965715464,0.29963200267420803,6.225349525609017
+"task: generate interview mock question
+query: Help me prepare for Data Engineer at Uber in LA. Focus on the OA round.
+role: Data Engineer
+company: Uber
+location: LA
+round: OA
+target:",Dijkstra on sparse graphs.,1,-1.2039554537763017e-05,-2.2390535515172556,0.25092124870867827,8.923283793164382
+"task: generate interview mock question
+query: Help me prepare for SRE at NVIDIA in LA. Focus on the OA round.
+role: SRE
+company: NVIDIA
+location: LA
+round: OA
+target:",Longest substring without repeats.,1,-3.17888346166888e-06,-2.448714121111061,1.0479153790809124,2.336744923407148
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at Airbnb in Bay Area. Focus on the ML Case Study round.
+role: ML Engineer
+company: Airbnb
+location: Bay Area
+round: ML Case Study
+target:",Join two large tables and handle skew.,1,-1.2755366684337172e-06,-2.4498962377844786,0.5003254592789318,4.896602634970035
+"task: generate interview mock question
+query: Help me prepare for Data Engineer at Meta in Bay Area. Focus on the ML Case Study round.
+role: Data Engineer
+company: Meta
+location: Bay Area
+round: ML Case Study
+target:",Join two large tables and handle skew.,1,-9.17910437229463e-07,-2.32669398551968,0.3873003292615344,6.00746472910454
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Apple in Toronto. Focus on the OA round.
+role: Backend Engineer
+company: Apple
+location: Toronto
+round: OA
+target:",Dijkstra on sparse graphs.,1,-1.6556762887472608e-06,-1.8309299875806735,0.7961862693423831,2.2996230937474667
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Apple in Boston. Focus on the OA round.
+role: Data Scientist
+company: Apple
+location: Boston
+round: OA
+target:",Running median from a data stream.,1,-1.2066132802458364e-05,-1.6963841614195045,0.7934068530231453,2.1380860132767414
+"task: generate interview mock question
+query: Help me prepare for Data Engineer at NVIDIA in LA. Focus on the System Design round.
+role: Data Engineer
+company: NVIDIA
+location: LA
+round: System Design
+target:",Design logging ingestion at 10M events/sec.,1,-7.440574330014443e-06,-1.617722539745724,0.7523392286864059,2.150246906566265
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Microsoft in Austin. Focus on the ML Case Study round.
+role: Backend Engineer
+company: Microsoft
+location: Austin
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,1,-7.987014206463013e-07,-2.2463843800015404,0.054727791301255005,41.0464871299969
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Amazon in Boston. Focus on the OA round.
+role: Backend Engineer
+company: Amazon
+location: Boston
+round: OA
+target:",Running median from a data stream.,1,-2.092778431383992e-06,-2.5685814193160237,0.39460435262446275,6.50925239281904
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Stripe in Boston. Focus on the Technical round.
+role: Backend Engineer
+company: Stripe
+location: Boston
+round: Technical
+target:",Implement an LRU cache with O(1) ops.,1,-1.24609514910232e-05,-1.1790571204908173,0.18717810618216496,6.2990521893188705
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at Uber in Chicago. Focus on the Technical round.
+role: ML Engineer
+company: Uber
+location: Chicago
+round: Technical
+target:",Bias-variance tradeoff and regularization.,1,-4.722443495181686e-06,-1.1527776342474314,0.39585345411009426,2.912120381506962
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Amazon in Boston. Focus on the System Design round.
+role: Security Engineer
+company: Amazon
+location: Boston
+round: System Design
+target:",Design a feature store for online inference.,1,-2.4793381428698364e-05,-2.1248389938086936,0.19791549415580373,10.735966931192163
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Microsoft in Remote. Focus on the Behavioral/HR round.
+role: Frontend Engineer
+company: Microsoft
+location: Remote
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,1,-1.3654849172686832e-06,-2.0780676692797817,1.0166311603852078,2.0440710306454433
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at NVIDIA in Seattle. Focus on the OA round.
+role: ML Engineer
+company: NVIDIA
+location: Seattle
+round: OA
+target:",Running median from a data stream.,1,-6.141639695818912e-05,-1.7195933905674357,0.3579885969373296,4.803314934837165
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Uber in LA. Focus on the Technical round.
+role: Frontend Engineer
+company: Uber
+location: LA
+round: Technical
+target:",Top-K frequent elements using a heap.,1,-4.3239858523071786e-06,-2.0020155563360857,0.5384464037008417,3.718125366963248
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Google in Seattle. Focus on the ML Case Study round.
+role: Security Engineer
+company: Google
+location: Seattle
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,1,-1.3947454121684687e-06,-2.0902247407991794,0.569213869052877,3.6721230098130246
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Microsoft in Remote. Focus on the ML Case Study round.
+role: Data Scientist
+company: Microsoft
+location: Remote
+round: ML Case Study
+target:",Bias-variance tradeoff and regularization.,1,-3.4937172734097285e-06,-1.3386792301004065,0.20946453156636993,6.390942305948187
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at Netflix in LA. Focus on the Technical round.
+role: ML Engineer
+company: Netflix
+location: LA
+round: Technical
+target:",Join two large tables and handle skew.,1,-2.53914495006773e-06,-2.46614775411039,0.3620604220001332,6.811418937595263
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Apple in Remote. Focus on the System Design round.
+role: Frontend Engineer
+company: Apple
+location: Remote
+round: System Design
+target:",Design a real-time ride dispatch system.,1,-3.263632107776421e-05,-1.859584178101006,0.4399869942035461,4.226378429994377
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Stripe in Vancouver. Focus on the ML Case Study round.
+role: Frontend Engineer
+company: Stripe
+location: Vancouver
+round: ML Case Study
+target:",Evaluate a recommender with cold-start users.,1,-9.502479633447308e-06,-1.7024325460807732,0.28205882178996816,6.0357021730340685
+"task: generate interview mock question
+query: Help me prepare for Data Engineer at Meta in Vancouver. Focus on the Technical round.
+role: Data Engineer
+company: Meta
+location: Vancouver
+round: Technical
+target:",Implement mini-batch GD with early stopping.,1,-1.8983134683312393e-05,-1.7827223325814248,0.6739816199426333,2.6450325894621254
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Airbnb in Remote. Focus on the Behavioral/HR round.
+role: Security Engineer
+company: Airbnb
+location: Remote
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,1,-7.477663688718019e-07,-1.8875462774976939,0.4426323333846715,4.264364320830005
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at NVIDIA in Remote. Focus on the Technical round.
+role: Data Scientist
+company: NVIDIA
+location: Remote
+round: Technical
+target:",Daily user embeddings pipeline with real-time serving.,0,-1.22821358184278,-1.469924891648069,0.1680890781422041,1.4379953324558075
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Google in Toronto. Focus on the ML Case Study round.
+role: Frontend Engineer
+company: Google
+location: Toronto
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,0,-0.0001724563886549569,-1.9417002658500475,0.7110800141584678,2.7303928823806225
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Airbnb in Vancouver. Focus on the ML Case Study round.
+role: Frontend Engineer
+company: Airbnb
+location: Vancouver
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,0,-2.3493661114269747e-05,-1.8700430732146431,0.41830483616780306,4.4704708572945355
+"task: generate interview mock question
+query: Help me prepare for Data Engineer at Uber in Vancouver. Focus on the Technical round.
+role: Data Engineer
+company: Uber
+location: Vancouver
+round: Technical
+target:",Bias-variance tradeoff and regularization.,0,-0.02717348931129641,-0.5325108074713648,0.495064759210365,1.0207499296982647
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Apple in Chicago. Focus on the OA round.
+role: Frontend Engineer
+company: Apple
+location: Chicago
+round: OA
+target:",Running median from a data stream.,0,-0.37453971927141255,-2.129863047882373,0.5096933568970252,3.443881119615207
+"task: generate interview mock question
+query: Help me prepare for SRE at Amazon in Toronto. Focus on the Behavioral/HR round.
+role: SRE
+company: Amazon
+location: Toronto
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,0,-0.0006230660200550711,-1.5961866472645472,0.2612236787808585,6.108035797868907
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Airbnb in Toronto. Focus on the OA round.
+role: Software Engineer
+company: Airbnb
+location: Toronto
+round: OA
+target:",Dijkstra on sparse graphs.,0,-1.6670752612770343,-2.206996729835263,1.1504433177385647,0.4693160108222946
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Amazon in Austin. Focus on the Technical round.
+role: Frontend Engineer
+company: Amazon
+location: Austin
+round: Technical
+target:",Find the longest consecutive sequence length.,0,-0.4524614541006721,-1.8062688489553553,0.16800345256008095,8.058211746395736
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Amazon in Chicago. Focus on the ML Case Study round.
+role: Data Scientist
+company: Amazon
+location: Chicago
+round: ML Case Study
+target:",Bias-variance tradeoff and regularization.,0,-0.6111407642064992,-1.4116808348580472,0.2611363385878906,3.0656019571252067
+"task: generate interview mock question
+query: Help me prepare for SRE at Uber in Chicago. Focus on the System Design round.
+role: SRE
+company: Uber
+location: Chicago
+round: System Design
+target:",Design a feature store for online inference.,0,-0.9241136541662183,-2.0639489104806343,0.997371681440022,1.1428390012725274
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Amazon in Bay Area. Focus on the Technical round.
+role: Security Engineer
+company: Amazon
+location: Bay Area
+round: Technical
+target:",Serialize/deserialize a binary tree.,0,-1.6465487466442335,-1.1360760619709793,0.15179790044948913,-3.362844170846186
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Airbnb in Remote. Focus on the System Design round.
+role: Frontend Engineer
+company: Airbnb
+location: Remote
+round: System Design
+target:",Design logging ingestion at 10M events/sec.,0,-0.7575081183160902,-1.3680729700546694,0.6671069833807985,0.9152427825658903
+"task: generate interview mock question
+query: Help me prepare for SRE at Apple in Seattle. Focus on the ML Case Study round.
+role: SRE
+company: Apple
+location: Seattle
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,0,-0.0016192378460069712,-1.701986013141001,0.5490768001564982,3.0967740301727456
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at Netflix in Vancouver. Focus on the OA round.
+role: ML Engineer
+company: Netflix
+location: Vancouver
+round: OA
+target:",Longest substring without repeats.,0,-0.49485429073027254,-1.1563125003423322,0.8268024264567071,0.8000196763412557
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Meta in Boston. Focus on the Behavioral/HR round.
+role: Security Engineer
+company: Meta
+location: Boston
+round: Behavioral/HR
+target:",Describe a conflict and how you resolved it.,0,-0.39346253839129175,-1.0055862966946325,0.8618988857704575,0.7102036774953701
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Amazon in Seattle. Focus on the System Design round.
+role: Data Scientist
+company: Amazon
+location: Seattle
+round: System Design
+target:",Design a real-time ride dispatch system.,0,-0.006769867099763072,-1.7779037611144088,0.9290040264821567,1.9064867788801383
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Airbnb in Austin. Focus on the ML Case Study round.
+role: Security Engineer
+company: Airbnb
+location: Austin
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,0,-1.2040118223705347e-06,-1.954957507085875,0.5191886631793162,3.765406376754521
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Meta in Seattle. Focus on the System Design round.
+role: Software Engineer
+company: Meta
+location: Seattle
+round: System Design
+target:",Design a real-time ride dispatch system.,0,-1.2763032034628599,-1.8250934963709935,1.1095494422429861,0.4946064339401931
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at Apple in LA. Focus on the System Design round.
+role: Data Scientist
+company: Apple
+location: LA
+round: System Design
+target:",Design a feature store for online inference.,0,-0.5426979536351585,-1.8028570415118679,1.096409536097147,1.1493507183113858
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Airbnb in Toronto. Focus on the ML Case Study round.
+role: Backend Engineer
+company: Airbnb
+location: Toronto
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,0,-2.574911011078125e-06,-1.6927356106984848,0.8059101293036016,2.1003992557460327
+"task: generate interview mock question
+query: Help me prepare for Data Engineer at Apple in Austin. Focus on the OA round.
+role: Data Engineer
+company: Apple
+location: Austin
+round: OA
+target:",Dijkstra on sparse graphs.,0,-0.809507316113758,-1.2871073470119583,0.4987906420515302,0.9575160210180111
+"task: generate interview mock question
+query: Help me prepare for Data Scientist at NVIDIA in Bay Area. Focus on the Behavioral/HR round.
+role: Data Scientist
+company: NVIDIA
+location: Bay Area
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,0,-1.4815677282562807,-1.8027525663221715,0.7589680632143228,0.42318623619765194
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at Microsoft in Austin. Focus on the OA round.
+role: ML Engineer
+company: Microsoft
+location: Austin
+round: OA
+target:",Dijkstra on sparse graphs.,0,-1.9057492129025744,-1.9953591784402702,1.0090973433659847,0.08880210232125806
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Apple in Bay Area. Focus on the ML Case Study round.
+role: Security Engineer
+company: Apple
+location: Bay Area
+round: ML Case Study
+target:",Detect data drift and trigger retraining.,0,-0.0001856407614431062,-1.2722114023894289,0.4968576806400718,2.560141085047355
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at Airbnb in Boston. Focus on the OA round.
+role: ML Engineer
+company: Airbnb
+location: Boston
+round: OA
+target:",Dijkstra on sparse graphs.,0,-1.0089909224425382,-0.793424282583167,0.4496936437642439,-0.47936332400638515
+"task: generate interview mock question
+query: Help me prepare for SRE at Apple in NYC. Focus on the OA round.
+role: SRE
+company: Apple
+location: NYC
+round: OA
+target:",Dijkstra on sparse graphs.,0,-1.116737894300901,-1.247631573652865,1.583427142555717,0.08266479450434083
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at NVIDIA in Chicago. Focus on the Technical round.
+role: Backend Engineer
+company: NVIDIA
+location: Chicago
+round: Technical
+target:",Find the longest consecutive sequence length.,0,-1.5080876863465364,-1.2015884963172634,0.6632114976490835,-0.46214396329939234
+"task: generate interview mock question
+query: Help me prepare for Data Engineer at Microsoft in Bay Area. Focus on the System Design round.
+role: Data Engineer
+company: Microsoft
+location: Bay Area
+round: System Design
+target:",Design a feature store for online inference.,0,-1.8636394482096026,-2.6513028118323394,0.31028915673879515,2.538481756504951
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at Meta in Toronto. Focus on the ML Case Study round.
+role: ML Engineer
+company: Meta
+location: Toronto
+round: ML Case Study
+target:",Daily user embeddings pipeline with real-time serving.,0,-1.2122080658019663,-0.8688695892864466,0.8983021847385544,-0.38220821717743714
+"task: generate interview mock question
+query: Help me prepare for ML Engineer at Google in LA. Focus on the OA round.
+role: ML Engineer
+company: Google
+location: LA
+round: OA
+target:",Longest substring without repeats.,0,-1.2980532711306854e-06,-1.9524937713969144,0.34289743467078154,5.694100555806859
+"task: generate interview mock question
+query: Help me prepare for Security Engineer at Airbnb in Bay Area. Focus on the System Design round.
+role: Security Engineer
+company: Airbnb
+location: Bay Area
+round: System Design
+target:",Design a URL shortener.,0,-0.6293483368636136,-2.6266768940458154,1.0618495388020102,1.880990181938214
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Microsoft in NYC. Focus on the ML Case Study round.
+role: Software Engineer
+company: Microsoft
+location: NYC
+round: ML Case Study
+target:",Evaluate a recommender with cold-start users.,0,-1.476872715576299,-1.491284778074724,0.31010551384026586,0.0464747057217711
+"task: generate interview mock question
+query: Help me prepare for Software Engineer at Google in Chicago. Focus on the OA round.
+role: Software Engineer
+company: Google
+location: Chicago
+round: OA
+target:",Dijkstra on sparse graphs.,0,-3.2124913497834293,-2.3583882673205174,1.0682917624652672,-0.7995035742781746
+"task: generate interview mock question
+query: Help me prepare for Frontend Engineer at Microsoft in Seattle. Focus on the System Design round.
+role: Frontend Engineer
+company: Microsoft
+location: Seattle
+round: System Design
+target:",Design a feature store for online inference.,0,-1.1037243832041368,-1.9369951554416285,1.1310493366748162,0.7367236293044768
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Amazon in NYC. Focus on the Behavioral/HR round.
+role: Backend Engineer
+company: Amazon
+location: NYC
+round: Behavioral/HR
+target:",Tell me about a time you handled ambiguity.,0,-7.683318630495955e-06,-1.4439565472047127,0.385191754318194,3.7486494653602693
+"task: generate interview mock question
+query: Help me prepare for Backend Engineer at Meta in Remote. Focus on the System Design round.
+role: Backend Engineer
+company: Meta
+location: Remote
+round: System Design
+target:",Design logging ingestion at 10M events/sec.,0,-1.2394190618994831,-1.7763331219652332,0.3820167761846971,1.4054724649217063
