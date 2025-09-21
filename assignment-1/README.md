@@ -66,15 +66,13 @@
 
  This means the attack seems very good if you only look at AUC, but once you care about keeping false positives very low, the success rate drops a lot.
 
----
 
-## Vulnerability Analysis
+### Vulnerability Analysis
 
 The model is clearly leaking membership information because of the large overfit gap — the attack could guess many training examples correctly. But the results also match the paper’s warning: AUC by itself is misleading. At stricter FPRs, the attack’s power falls off quickly. This shows why **LiRA** is a better approach, since it was built to work well in the low-FPR regime.
 
----
 
-## Implications
+### Implications
 
 For EduPilot, this means if real job-seeker data (like resumes or candidate questions) were used, attackers could run membership inference and find out if someone’s data was used. That’s a serious privacy risk. Even worse, rare or unique data (like a one-off interview question) could be extracted almost verbatim, as Carlini et al. showed for large language models.
 
