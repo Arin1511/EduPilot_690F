@@ -56,7 +56,7 @@ MIA only tells if some data was used in training. Data extraction actually tries
 
 Yes — our synthetic EduPilot dataset intentionally allowed mild overfitting (train acc \~87%, test acc \~20%). This created a large generalization gap that MIAs could exploit and easily spot training examples, achieving ROC-AUC ≈ 0.93.
 
-### What privacy protections does FL claim, and what risks remain?
+### What privacy protections does FL claim, and what risks remain? (Referred "Advances and Open Problems in Federated Learning" for the following questions)
 
 FL says it protects privacy because the raw data (like resumes or queries) never leaves the user’s device. Instead, only model updates are shared. But the paper shows that this doesn’t fully solve the problem – attackers can sometimes reverse-engineer updates (through gradient inversion) or still do membership inference attacks on the model.
 
