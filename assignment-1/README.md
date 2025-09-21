@@ -10,8 +10,8 @@
   * [Design Choices](#design-choices)
   * [Implementation](#implementation)
   * [Metrics & Results](#metrics--results)
-* [Vulnerability Analysis](#vulnerability-analysis)
-* [Implications](#implications)
+  * [Vulnerability Analysis](#vulnerability-analysis)
+  * [Implications](#implications)
 
 ---
 
