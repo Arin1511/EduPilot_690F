@@ -12,6 +12,7 @@
   * [Metrics & Results](#metrics--results)
   * [Vulnerability Analysis](#vulnerability-analysis)
   * [Implications](#implications)
+* [How to Run the Code](#how-to-run-the-code)
 
 ---
 
@@ -86,6 +87,23 @@ Without these, the system could leak sensitive candidate information.
 
 ---
 
+
+## How to Run the Code
+
+1. Open the Colab notebook from this repository (`EduPilot_690F.ipynb`).
+2. Install the required libraries (the notebook already contains `pip install` cells for **transformers**, **datasets**, **torch**, **scikit-learn**, **matplotlib**, **seaborn**, etc.).
+3. **Upload the dataset locally:**
+
+   * In the Colab interface, go to the left sidebar → click on the **Files** tab.
+   * Upload `EduPilot_dataset_2000.csv` manually to this Files tab.
+4. Run the notebook cells in order. The dataset will be loaded with:
+
+   ```python
+   df = pd.read_csv("EduPilot_dataset_2000.csv")
+   ```
+5. Follow the notebook to train the models (MLP baseline and optional Logistic Regression for LiRA), run membership inference attacks, and reproduce the reported metrics.
+
+---
 
 Purpose: this repo/notebook collection implements two membership-inference analyses on the EduPilot dataset:
 
