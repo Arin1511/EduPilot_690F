@@ -11,6 +11,8 @@ Key ideas:
 - Use class-conditioned (job_role) negatives, K samples per example -> background mean+std.
 - Final statistic: Z-SCORE (LiRA-style), typically sharper than a single-gap.
 
+The code implements an exposure-style membership inference attack on a language model (LM). The goal is to determine whether a specific text example (prompt + target) was part of the LM’s training data. It fine-tunes a decoder-only LM (DistilGPT2) on a small dataset and computes per-token log-probabilities for each target given its prompt. By comparing the log-probabilities of true targets to a set of “negative” examples sampled from similar data (same job role), it calculates a Z-score statistic. Higher Z-scores indicate that the model is more likely to have seen the example during training. Finally, the code evaluates the attack using ROC-AUC, histograms, and saves results for analysis.
+
 Outputs:
 - exposure_results_gpt2.csv
 - exposure_histograms_gpt2.png
@@ -18,6 +20,11 @@ Outputs:
 
 Requires:
   torch, transformers (>=4.30 recommended), datasets, scikit-learn, pandas, matplotlib, numpy, accelerate (>=0.26)
+
+
+  AI Assistance:
+I used AI (ChatGPT) to suggest optimizations like batching BERT encoding and additional features (e.g., margin/confidence). The dataset adaptation, architectural decisions, and final code integration were all done and validated by me.
+
 """
 
 import os, sys, random
