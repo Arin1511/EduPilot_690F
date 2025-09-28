@@ -249,3 +249,5 @@ Except for the code, llm was also used to get information from the provided rese
 * McMahan et al., 2017. *Communication-Efficient Learning of Deep Networks from Decentralized Data* (FedAvg).
 * Yin et al., 2018. *Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates* (FedMedian).
 * Carlini et al., 2022. *Membership Inference Attacks from First Principles* (for vulnerabilities).
+
+---
