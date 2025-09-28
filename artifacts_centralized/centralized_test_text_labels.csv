@@ -1,0 +1,401 @@
+text,label
+i'm preparing for a backend engineer interview at google in paris. can you give mock questions? ||| backend engineer ||| google ||| paris ||| implement dijkstra's algorithm for sparse graphs.,Technical
+help me practice for security engineer interviews at uber located in remote. ||| security engineer ||| uber ||| remote ||| a scalable feature store for training/inference.,System Design
+what should i for a security engineer position at dropbox (location: chicago)? ||| security engineer ||| dropbox ||| chicago ||| implement dijkstra's algorithm for sparse graphs.,Technical
+what should i for a frontend engineer position at stripe (location: dublin)? ||| frontend engineer ||| stripe ||| dublin ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+help me practice for data scientist interviews at twitter located in la. ||| data scientist ||| twitter ||| la ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+i have an interview for sre at twitter in boston — what mock questions should i expect? ||| sre ||| twitter ||| boston ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+i'm preparing for a backend engineer interview at linkedin in dublin. can you give mock questions? ||| backend engineer ||| linkedin ||| dublin ||| an offline/online training pipeline for user embeddings.,ML Case Study
+help me practice for data scientist interviews at reddit located in bangalore. ||| data scientist ||| reddit ||| bangalore ||| a rate limiter supporting sliding window semantics.,Technical
+help me practice for backend engineer interviews at salesforce located in remote. ||| backend engineer ||| salesforce ||| remote ||| a rate limiter supporting sliding window semantics.,Technical
+what should i for a data scientist position at uber (location: toronto)? ||| data scientist ||| uber ||| toronto ||| count islands in a binary matrix using dfs/bfs.,OA
+give me common interview problems for security engineer roles at amazon in vancouver. ||| security engineer ||| amazon ||| vancouver ||| an offline/online training pipeline for user embeddings.,ML Case Study
+what should i for a product manager position at adobe (location: toronto)? ||| product manager ||| adobe ||| toronto ||| a scalable feature store for training/inference.,System Design
+help me practice for engineer interviews at adobe located in bangalore. ||| engineer ||| adobe ||| bangalore ||| an offline/online training pipeline for user embeddings.,ML Case Study
+"i have an interview for product manager at pinterest in seattle — what mock questions should i expect? ||| product manager ||| pinterest ||| seattle ||| given a string, return length of longest substring without repeating characters.",OA
+i'm preparing for a qa engineer interview at netflix in la. can you give mock questions? ||| qa engineer ||| netflix ||| la ||| count islands in a binary matrix using dfs/bfs.,OA
+help me practice for product manager interviews at pinterest located in chicago. ||| product manager ||| pinterest ||| chicago ||| top-k frequent elements using a heap.,Technical
+i have an interview for engineer at adobe in munich — what mock questions should i expect? ||| engineer ||| adobe ||| munich ||| a recommendation for short video feed.,System Design
+what should i for a product manager position at google (location: vancouver)? ||| product manager ||| google ||| vancouver ||| compute running median from a data stream.,OA
+help me practice for data engineer interviews at stripe located in seattle. ||| data engineer ||| stripe ||| seattle ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+what should i for a software engineer position at apple (location: munich)? ||| software engineer ||| apple ||| munich ||| a recommendation for short video feed.,System Design
+give me common interview problems for security engineer roles at snap in toronto. ||| security engineer ||| snap ||| toronto ||| serialize and deserialize a binary tree.,Technical
+what should i for a frontend engineer position at stripe (location: toronto)? ||| frontend engineer ||| stripe ||| toronto ||| describe a time you failed and what you learned.,Behavioral/HR
+i have an interview for frontend engineer at meta in vancouver — what mock questions should i expect? ||| frontend engineer ||| meta ||| vancouver ||| a monitoring/alerting for microservices.,System Design
+i'm preparing for a qa engineer interview at snap in chicago. can you give mock questions? ||| qa engineer ||| snap ||| chicago ||| propose an evaluation plan for a recommendation model with cold-start users.,ML Case Study
+i have an interview for backend engineer at intuit in singapore — what mock questions should i expect? ||| backend engineer ||| intuit ||| singapore ||| how would you detect data drift and trigger model retraining?,ML Case Study
+i have an interview for engineer at adobe in berlin — what mock questions should i expect? ||| engineer ||| adobe ||| berlin ||| how would you detect data drift and trigger model retraining?,ML Case Study
+i have an interview for data scientist at apple in munich — what mock questions should i expect? ||| data scientist ||| apple ||| munich ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+i have an interview for security engineer at twitter in remote — what mock questions should i expect? ||| security engineer ||| twitter ||| remote ||| an offline/online training pipeline for user embeddings.,ML Case Study
+"what should i for a sre position at meta (location: seattle)? ||| sre ||| meta ||| seattle ||| given a string, return length of longest substring without repeating characters.",OA
+give me common interview problems for engineer roles at netflix in bay area. ||| engineer ||| netflix ||| bay area ||| compute running median from a data stream.,OA
+help me practice for data scientist interviews at amazon located in chicago. ||| data scientist ||| amazon ||| chicago ||| implement an lru cache with o(1) operations.,Technical
+i'm preparing for a data engineer interview at microsoft in seattle. can you give mock questions? ||| data engineer ||| microsoft ||| seattle ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+help me practice for backend engineer interviews at amazon located in bangalore. ||| backend engineer ||| amazon ||| bangalore ||| count islands in a binary matrix using dfs/bfs.,OA
+give me common interview problems for sre roles at intuit in singapore. ||| sre ||| intuit ||| singapore ||| describe a time you failed and what you learned.,Behavioral/HR
+i'm preparing for a data scientist interview at reddit in boston. can you give mock questions? ||| data scientist ||| reddit ||| boston ||| an offline/online training pipeline for user embeddings.,ML Case Study
+"give me common interview problems for data scientist roles at reddit in melbourne. ||| data scientist ||| reddit ||| melbourne ||| given intervals, merge overlapping ones.",Technical
+"give me common interview problems for qa engineer roles at twitter in melbourne. ||| qa engineer ||| twitter ||| melbourne ||| given a string, return length of longest substring without repeating characters.",OA
+give me common interview problems for backend engineer roles at twitter in paris. ||| backend engineer ||| twitter ||| paris ||| a globally distributed url shortener.,System Design
+i'm preparing for a product manager interview at snap in berlin. can you give mock questions? ||| product manager ||| snap ||| berlin ||| a scalable feature store for training/inference.,System Design
+what should i for a backend engineer position at shopify (location: singapore)? ||| backend engineer ||| shopify ||| singapore ||| how would you detect data drift and trigger model retraining?,ML Case Study
+i have an interview for engineer at nvidia in melbourne — what mock questions should i expect? ||| engineer ||| nvidia ||| melbourne ||| implement union-find with path compression.,Technical
+what should i for a backend engineer position at google (location: toronto)? ||| backend engineer ||| google ||| toronto ||| top-k frequent elements using a heap.,Technical
+give me common interview problems for product manager roles at google in paris. ||| product manager ||| google ||| paris ||| propose an evaluation plan for a recommendation model with cold-start users.,ML Case Study
+i'm preparing for a security engineer interview at linkedin in chicago. can you give mock questions? ||| security engineer ||| linkedin ||| chicago ||| implement an lru cache with o(1) operations.,Technical
+help me practice for product manager interviews at intuit located in boston. ||| product manager ||| intuit ||| boston ||| how would you detect data drift and trigger model retraining?,ML Case Study
+i have an interview for qa engineer at adobe in nyc — what mock questions should i expect? ||| qa engineer ||| adobe ||| nyc ||| an offline/online training pipeline for user embeddings.,ML Case Study
+what should i for a product manager position at twitter (location: la)? ||| product manager ||| twitter ||| la ||| logging ingestion at 10m events/sec.,System Design
+what should i for a security engineer position at netflix (location: sydney)? ||| security engineer ||| netflix ||| sydney ||| a real-time ride-hailing dispatch .,System Design
+help me practice for data scientist interviews at google located in sydney. ||| data scientist ||| google ||| sydney ||| a messaging queue with at-least-once delivery.,System Design
+help me practice for engineer interviews at adobe located in la. ||| engineer ||| adobe ||| la ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+i'm preparing for a engineer interview at airbnb in munich. can you give mock questions? ||| engineer ||| airbnb ||| munich ||| count islands in a binary matrix using dfs/bfs.,OA
+help me practice for security engineer interviews at uber located in seattle. ||| security engineer ||| uber ||| seattle ||| an offline/online training pipeline for user embeddings.,ML Case Study
+what should i for a sre position at meta (location: remote)? ||| sre ||| meta ||| remote ||| count islands in a binary matrix using dfs/bfs.,OA
+i'm preparing for a product manager interview at nvidia in berlin. can you give mock questions? ||| product manager ||| nvidia ||| berlin ||| propose an evaluation plan for a recommendation model with cold-start users.,ML Case Study
+i'm preparing for a frontend engineer interview at linkedin in dublin. can you give mock questions? ||| frontend engineer ||| linkedin ||| dublin ||| a rate limiter supporting sliding window semantics.,Technical
+"what should i for a software engineer position at nvidia (location: singapore)? ||| software engineer ||| nvidia ||| singapore ||| given a string, return length of longest substring without repeating characters.",OA
+i'm preparing for a engineer interview at netflix in dublin. can you give mock questions? ||| engineer ||| netflix ||| dublin ||| find the longest consecutive sequence length.,Technical
+i have an interview for frontend engineer at airbnb in vancouver — what mock questions should i expect? ||| frontend engineer ||| airbnb ||| vancouver ||| find the longest consecutive sequence length.,Technical
+give me common interview problems for product manager roles at meta in nyc. ||| product manager ||| meta ||| nyc ||| how would you detect data drift and trigger model retraining?,ML Case Study
+i have an interview for data engineer at stripe in chicago — what mock questions should i expect? ||| data engineer ||| stripe ||| chicago ||| find the longest consecutive sequence length.,Technical
+"give me common interview problems for data scientist roles at netflix in melbourne. ||| data scientist ||| netflix ||| melbourne ||| given a string, return length of longest substring without repeating characters.",OA
+i'm preparing for a software engineer interview at snap in sydney. can you give mock questions? ||| software engineer ||| snap ||| sydney ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+i'm preparing for a security engineer interview at pinterest in remote. can you give mock questions? ||| security engineer ||| pinterest ||| remote ||| describe a time you failed and what you learned.,Behavioral/HR
+give me common interview problems for data scientist roles at uber in dublin. ||| data scientist ||| uber ||| dublin ||| a scalable feature store for training/inference.,System Design
+give me common interview problems for software engineer roles at pinterest in bay area. ||| software engineer ||| pinterest ||| bay area ||| describe a time you failed and what you learned.,Behavioral/HR
+give me common interview problems for engineer roles at amazon in toronto. ||| engineer ||| amazon ||| toronto ||| propose an evaluation plan for a recommendation model with cold-start users.,ML Case Study
+give me common interview problems for frontend engineer roles at dropbox in berlin. ||| frontend engineer ||| dropbox ||| berlin ||| how would you detect data drift and trigger model retraining?,ML Case Study
+i have an interview for data engineer at airbnb in chicago — what mock questions should i expect? ||| data engineer ||| airbnb ||| chicago ||| a rate limiter supporting sliding window semantics.,Technical
+"help me practice for sre interviews at stripe located in nyc. ||| sre ||| stripe ||| nyc ||| given a string, return length of longest substring without repeating characters.",OA
+i have an interview for sre at google in seattle — what mock questions should i expect? ||| sre ||| google ||| seattle ||| count islands in a binary matrix using dfs/bfs.,OA
+i have an interview for backend engineer at uber in london — what mock questions should i expect? ||| backend engineer ||| uber ||| london ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+i have an interview for product manager at amazon in toronto — what mock questions should i expect? ||| product manager ||| amazon ||| toronto ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+what should i for a security engineer position at netflix (location: melbourne)? ||| security engineer ||| netflix ||| melbourne ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+i have an interview for qa engineer at snap in remote — what mock questions should i expect? ||| qa engineer ||| snap ||| remote ||| a real-time ride-hailing dispatch .,System Design
+i have an interview for security engineer at nvidia in sydney — what mock questions should i expect? ||| security engineer ||| nvidia ||| sydney ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+give me common interview problems for sre roles at meta in bangalore. ||| sre ||| meta ||| bangalore ||| count islands in a binary matrix using dfs/bfs.,OA
+help me practice for security engineer interviews at salesforce located in paris. ||| security engineer ||| salesforce ||| paris ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+give me common interview problems for sre roles at linkedin in paris. ||| sre ||| linkedin ||| paris ||| a recommendation for short video feed.,System Design
+give me common interview problems for security engineer roles at uber in munich. ||| security engineer ||| uber ||| munich ||| count islands in a binary matrix using dfs/bfs.,OA
+help me practice for frontend engineer interviews at intuit located in singapore. ||| frontend engineer ||| intuit ||| singapore ||| compute running median from a data stream.,OA
+help me practice for qa engineer interviews at pinterest located in berlin. ||| qa engineer ||| pinterest ||| berlin ||| serialize and deserialize a binary tree.,Technical
+what should i for a backend engineer position at shopify (location: london)? ||| backend engineer ||| shopify ||| london ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+i'm preparing for a qa engineer interview at snap in bay area. can you give mock questions? ||| qa engineer ||| snap ||| bay area ||| count islands in a binary matrix using dfs/bfs.,OA
+what should i for a data scientist position at nvidia (location: paris)? ||| data scientist ||| nvidia ||| paris ||| find the longest consecutive sequence length.,Technical
+help me practice for engineer interviews at shopify located in singapore. ||| engineer ||| shopify ||| singapore ||| describe a time you failed and what you learned.,Behavioral/HR
+give me common interview problems for security engineer roles at linkedin in bay area. ||| security engineer ||| linkedin ||| bay area ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+what should i for a qa engineer position at linkedin (location: melbourne)? ||| qa engineer ||| linkedin ||| melbourne ||| a recommendation for short video feed.,System Design
+i'm preparing for a security engineer interview at dropbox in berlin. can you give mock questions? ||| security engineer ||| dropbox ||| berlin ||| how would you detect data drift and trigger model retraining?,ML Case Study
+what should i for a software engineer position at meta (location: seattle)? ||| software engineer ||| meta ||| seattle ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+i have an interview for software engineer at reddit in berlin — what mock questions should i expect? ||| software engineer ||| reddit ||| berlin ||| a real-time ride-hailing dispatch .,System Design
+give me common interview problems for qa engineer roles at amazon in remote. ||| qa engineer ||| amazon ||| remote ||| a monitoring/alerting for microservices.,System Design
+give me common interview problems for security engineer roles at linkedin in london. ||| security engineer ||| linkedin ||| london ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+help me practice for product manager interviews at salesforce located in nyc. ||| product manager ||| salesforce ||| nyc ||| how would you detect data drift and trigger model retraining?,ML Case Study
+i have an interview for product manager at salesforce in melbourne — what mock questions should i expect? ||| product manager ||| salesforce ||| melbourne ||| propose an evaluation plan for a recommendation model with cold-start users.,ML Case Study
+what should i for a backend engineer position at google (location: vancouver)? ||| backend engineer ||| google ||| vancouver ||| top-k frequent elements using a heap.,Technical
+what should i for a sre position at shopify (location: berlin)? ||| sre ||| shopify ||| berlin ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+what should i for a engineer position at google (location: london)? ||| engineer ||| google ||| london ||| count islands in a binary matrix using dfs/bfs.,OA
+i have an interview for engineer at twitter in boston — what mock questions should i expect? ||| engineer ||| twitter ||| boston ||| implement an lru cache with o(1) operations.,Technical
+i have an interview for sre at twitter in london — what mock questions should i expect? ||| sre ||| twitter ||| london ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+i have an interview for frontend engineer at stripe in bay area — what mock questions should i expect? ||| frontend engineer ||| stripe ||| bay area ||| a recommendation for short video feed.,System Design
+i have an interview for data scientist at pinterest in paris — what mock questions should i expect? ||| data scientist ||| pinterest ||| paris ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+help me practice for sre interviews at intuit located in melbourne. ||| sre ||| intuit ||| melbourne ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+give me common interview problems for frontend engineer roles at shopify in bangalore. ||| frontend engineer ||| shopify ||| bangalore ||| a globally distributed url shortener.,System Design
+i'm preparing for a software engineer interview at google in sydney. can you give mock questions? ||| software engineer ||| google ||| sydney ||| serialize and deserialize a binary tree.,Technical
+give me common interview problems for backend engineer roles at microsoft in paris. ||| backend engineer ||| microsoft ||| paris ||| implement an lru cache with o(1) operations.,Technical
+i'm preparing for a software engineer interview at salesforce in remote. can you give mock questions? ||| software engineer ||| salesforce ||| remote ||| count islands in a binary matrix using dfs/bfs.,OA
+what should i for a qa engineer position at google (location: hyderabad)? ||| qa engineer ||| google ||| hyderabad ||| an offline/online training pipeline for user embeddings.,ML Case Study
+"i have an interview for security engineer at pinterest in vancouver — what mock questions should i expect? ||| security engineer ||| pinterest ||| vancouver ||| given a string, return length of longest substring without repeating characters.",OA
+help me practice for security engineer interviews at nvidia located in berlin. ||| security engineer ||| nvidia ||| berlin ||| count islands in a binary matrix using dfs/bfs.,OA
+help me practice for software engineer interviews at apple located in hyderabad. ||| software engineer ||| apple ||| hyderabad ||| an offline/online training pipeline for user embeddings.,ML Case Study
+give me common interview problems for frontend engineer roles at linkedin in berlin. ||| frontend engineer ||| linkedin ||| berlin ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+help me practice for data scientist interviews at google located in sydney. ||| data scientist ||| google ||| sydney ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+what should i for a software engineer position at netflix (location: sydney)? ||| software engineer ||| netflix ||| sydney ||| top-k frequent elements using a heap.,Technical
+help me practice for qa engineer interviews at twitter located in seattle. ||| qa engineer ||| twitter ||| seattle ||| find the longest consecutive sequence length.,Technical
+give me common interview problems for sre roles at meta in toronto. ||| sre ||| meta ||| toronto ||| a globally distributed url shortener.,System Design
+i have an interview for data engineer at meta in hyderabad — what mock questions should i expect? ||| data engineer ||| meta ||| hyderabad ||| serialize and deserialize a binary tree.,Technical
+i have an interview for frontend engineer at twitter in paris — what mock questions should i expect? ||| frontend engineer ||| twitter ||| paris ||| a scalable feature store for training/inference.,System Design
+give me common interview problems for sre roles at stripe in toronto. ||| sre ||| stripe ||| toronto ||| serialize and deserialize a binary tree.,Technical
+give me common interview problems for data engineer roles at snap in munich. ||| data engineer ||| snap ||| munich ||| implement two-sum with optimal complexity.,OA
+i have an interview for sre at pinterest in sydney — what mock questions should i expect? ||| sre ||| pinterest ||| sydney ||| implement two-sum with optimal complexity.,OA
+i have an interview for data scientist at snap in berlin — what mock questions should i expect? ||| data scientist ||| snap ||| berlin ||| serialize and deserialize a binary tree.,Technical
+i have an interview for security engineer at meta in munich — what mock questions should i expect? ||| security engineer ||| meta ||| munich ||| implement two-sum with optimal complexity.,OA
+i have an interview for software engineer at snap in melbourne — what mock questions should i expect? ||| software engineer ||| snap ||| melbourne ||| a real-time ride-hailing dispatch .,System Design
+what should i for a data engineer position at intuit (location: melbourne)? ||| data engineer ||| intuit ||| melbourne ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+i'm preparing for a engineer interview at google in bay area. can you give mock questions? ||| engineer ||| google ||| bay area ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+i'm preparing for a security engineer interview at salesforce in vancouver. can you give mock questions? ||| security engineer ||| salesforce ||| vancouver ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+i have an interview for qa engineer at uber in remote — what mock questions should i expect? ||| qa engineer ||| uber ||| remote ||| an offline/online training pipeline for user embeddings.,ML Case Study
+i'm preparing for a qa engineer interview at shopify in singapore. can you give mock questions? ||| qa engineer ||| shopify ||| singapore ||| a monitoring/alerting for microservices.,System Design
+give me common interview problems for software engineer roles at google in boston. ||| software engineer ||| google ||| boston ||| implement an lru cache with o(1) operations.,Technical
+what should i for a product manager position at shopify (location: nyc)? ||| product manager ||| shopify ||| nyc ||| implement union-find with path compression.,Technical
+what should i for a engineer position at reddit (location: vancouver)? ||| engineer ||| reddit ||| vancouver ||| implement two-sum with optimal complexity.,OA
+i'm preparing for a backend engineer interview at pinterest in la. can you give mock questions? ||| backend engineer ||| pinterest ||| la ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+i have an interview for frontend engineer at linkedin in toronto — what mock questions should i expect? ||| frontend engineer ||| linkedin ||| toronto ||| compute running median from a data stream.,OA
+i have an interview for product manager at shopify in singapore — what mock questions should i expect? ||| product manager ||| shopify ||| singapore ||| a scalable feature store for training/inference.,System Design
+what should i for a data scientist position at reddit (location: austin)? ||| data scientist ||| reddit ||| austin ||| propose an evaluation plan for a recommendation model with cold-start users.,ML Case Study
+i'm preparing for a sre interview at shopify in boston. can you give mock questions? ||| sre ||| shopify ||| boston ||| a real-time ride-hailing dispatch .,System Design
+give me common interview problems for security engineer roles at linkedin in austin. ||| security engineer ||| linkedin ||| austin ||| compute running median from a data stream.,OA
+i have an interview for sre at netflix in boston — what mock questions should i expect? ||| sre ||| netflix ||| boston ||| a messaging queue with at-least-once delivery.,System Design
+i'm preparing for a frontend engineer interview at google in la. can you give mock questions? ||| frontend engineer ||| google ||| la ||| a monitoring/alerting for microservices.,System Design
+i have an interview for sre at snap in berlin — what mock questions should i expect? ||| sre ||| snap ||| berlin ||| count islands in a binary matrix using dfs/bfs.,OA
+i have an interview for data scientist at google in london — what mock questions should i expect? ||| data scientist ||| google ||| london ||| logging ingestion at 10m events/sec.,System Design
+help me practice for qa engineer interviews at adobe located in vancouver. ||| qa engineer ||| adobe ||| vancouver ||| describe a time you failed and what you learned.,Behavioral/HR
+what should i for a security engineer position at intuit (location: bangalore)? ||| security engineer ||| intuit ||| bangalore ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+help me practice for software engineer interviews at linkedin located in bay area. ||| software engineer ||| linkedin ||| bay area ||| how would you detect data drift and trigger model retraining?,ML Case Study
+"i'm preparing for a engineer interview at stripe in munich. can you give mock questions? ||| engineer ||| stripe ||| munich ||| given intervals, merge overlapping ones.",Technical
+i'm preparing for a data scientist interview at apple in melbourne. can you give mock questions? ||| data scientist ||| apple ||| melbourne ||| top-k frequent elements using a heap.,Technical
+give me common interview problems for software engineer roles at pinterest in remote. ||| software engineer ||| pinterest ||| remote ||| describe a time you failed and what you learned.,Behavioral/HR
+give me common interview problems for product manager roles at airbnb in bay area. ||| product manager ||| airbnb ||| bay area ||| logging ingestion at 10m events/sec.,System Design
+give me common interview problems for software engineer roles at uber in paris. ||| software engineer ||| uber ||| paris ||| describe a time you failed and what you learned.,Behavioral/HR
+give me common interview problems for software engineer roles at dropbox in berlin. ||| software engineer ||| dropbox ||| berlin ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+i'm preparing for a frontend engineer interview at google in toronto. can you give mock questions? ||| frontend engineer ||| google ||| toronto ||| an offline/online training pipeline for user embeddings.,ML Case Study
+give me common interview problems for product manager roles at amazon in berlin. ||| product manager ||| amazon ||| berlin ||| implement union-find with path compression.,Technical
+i'm preparing for a data engineer interview at adobe in bangalore. can you give mock questions? ||| data engineer ||| adobe ||| bangalore ||| find the longest consecutive sequence length.,Technical
+give me common interview problems for qa engineer roles at airbnb in bangalore. ||| qa engineer ||| airbnb ||| bangalore ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+help me practice for data engineer interviews at reddit located in bangalore. ||| data engineer ||| reddit ||| bangalore ||| implement two-sum with optimal complexity.,OA
+what should i for a product manager position at uber (location: munich)? ||| product manager ||| uber ||| munich ||| implement dijkstra's algorithm for sparse graphs.,Technical
+i have an interview for software engineer at adobe in berlin — what mock questions should i expect? ||| software engineer ||| adobe ||| berlin ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+i have an interview for security engineer at apple in singapore — what mock questions should i expect? ||| security engineer ||| apple ||| singapore ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+"what should i for a backend engineer position at google (location: vancouver)? ||| backend engineer ||| google ||| vancouver ||| given a string, return length of longest substring without repeating characters.",OA
+what should i for a data engineer position at shopify (location: bay area)? ||| data engineer ||| shopify ||| bay area ||| how would you detect data drift and trigger model retraining?,ML Case Study
+what should i for a qa engineer position at microsoft (location: bangalore)? ||| qa engineer ||| microsoft ||| bangalore ||| logging ingestion at 10m events/sec.,System Design
+give me common interview problems for security engineer roles at twitter in vancouver. ||| security engineer ||| twitter ||| vancouver ||| how would you detect data drift and trigger model retraining?,ML Case Study
+i'm preparing for a sre interview at intuit in remote. can you give mock questions? ||| sre ||| intuit ||| remote ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+what should i for a backend engineer position at dropbox (location: austin)? ||| backend engineer ||| dropbox ||| austin ||| a rate limiter supporting sliding window semantics.,Technical
+"help me practice for software engineer interviews at netflix located in austin. ||| software engineer ||| netflix ||| austin ||| given intervals, merge overlapping ones.",Technical
+i have an interview for frontend engineer at meta in vancouver — what mock questions should i expect? ||| frontend engineer ||| meta ||| vancouver ||| a messaging queue with at-least-once delivery.,System Design
+help me practice for data engineer interviews at stripe located in seattle. ||| data engineer ||| stripe ||| seattle ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+i'm preparing for a frontend engineer interview at microsoft in hyderabad. can you give mock questions? ||| frontend engineer ||| microsoft ||| hyderabad ||| how would you detect data drift and trigger model retraining?,ML Case Study
+what should i for a software engineer position at apple (location: seattle)? ||| software engineer ||| apple ||| seattle ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+give me common interview problems for backend engineer roles at snap in munich. ||| backend engineer ||| snap ||| munich ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+i'm preparing for a security engineer interview at intuit in melbourne. can you give mock questions? ||| security engineer ||| intuit ||| melbourne ||| a globally distributed url shortener.,System Design
+help me practice for sre interviews at intuit located in singapore. ||| sre ||| intuit ||| singapore ||| a messaging queue with at-least-once delivery.,System Design
+i have an interview for frontend engineer at snap in toronto — what mock questions should i expect? ||| frontend engineer ||| snap ||| toronto ||| top-k frequent elements using a heap.,Technical
+i have an interview for product manager at intuit in bangalore — what mock questions should i expect? ||| product manager ||| intuit ||| bangalore ||| how would you detect data drift and trigger model retraining?,ML Case Study
+i'm preparing for a qa engineer interview at salesforce in seattle. can you give mock questions? ||| qa engineer ||| salesforce ||| seattle ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+help me practice for security engineer interviews at salesforce located in chicago. ||| security engineer ||| salesforce ||| chicago ||| describe a time you failed and what you learned.,Behavioral/HR
+i'm preparing for a sre interview at twitter in dublin. can you give mock questions? ||| sre ||| twitter ||| dublin ||| how would you detect data drift and trigger model retraining?,ML Case Study
+"i'm preparing for a qa engineer interview at microsoft in seattle. can you give mock questions? ||| qa engineer ||| microsoft ||| seattle ||| given intervals, merge overlapping ones.",Technical
+what should i for a engineer position at netflix (location: paris)? ||| engineer ||| netflix ||| paris ||| a recommendation for short video feed.,System Design
+i'm preparing for a data scientist interview at airbnb in melbourne. can you give mock questions? ||| data scientist ||| airbnb ||| melbourne ||| count islands in a binary matrix using dfs/bfs.,OA
+what should i for a product manager position at netflix (location: remote)? ||| product manager ||| netflix ||| remote ||| a recommendation for short video feed.,System Design
+i have an interview for qa engineer at linkedin in seattle — what mock questions should i expect? ||| qa engineer ||| linkedin ||| seattle ||| an offline/online training pipeline for user embeddings.,ML Case Study
+what should i for a frontend engineer position at salesforce (location: austin)? ||| frontend engineer ||| salesforce ||| austin ||| a globally distributed url shortener.,System Design
+i'm preparing for a data scientist interview at intuit in toronto. can you give mock questions? ||| data scientist ||| intuit ||| toronto ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+give me common interview problems for data scientist roles at dropbox in la. ||| data scientist ||| dropbox ||| la ||| describe a time you failed and what you learned.,Behavioral/HR
+help me practice for sre interviews at meta located in la. ||| sre ||| meta ||| la ||| propose an evaluation plan for a recommendation model with cold-start users.,ML Case Study
+i'm preparing for a product manager interview at dropbox in boston. can you give mock questions? ||| product manager ||| dropbox ||| boston ||| implement an lru cache with o(1) operations.,Technical
+what should i for a security engineer position at meta (location: seattle)? ||| security engineer ||| meta ||| seattle ||| compute running median from a data stream.,OA
+i have an interview for data engineer at stripe in singapore — what mock questions should i expect? ||| data engineer ||| stripe ||| singapore ||| propose an evaluation plan for a recommendation model with cold-start users.,ML Case Study
+give me common interview problems for frontend engineer roles at shopify in la. ||| frontend engineer ||| shopify ||| la ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+what should i for a backend engineer position at linkedin (location: paris)? ||| backend engineer ||| linkedin ||| paris ||| describe a time you failed and what you learned.,Behavioral/HR
+help me practice for sre interviews at twitter located in sydney. ||| sre ||| twitter ||| sydney ||| logging ingestion at 10m events/sec.,System Design
+help me practice for software engineer interviews at microsoft located in bangalore. ||| software engineer ||| microsoft ||| bangalore ||| implement union-find with path compression.,Technical
+i have an interview for product manager at adobe in boston — what mock questions should i expect? ||| product manager ||| adobe ||| boston ||| a monitoring/alerting for microservices.,System Design
+give me common interview problems for software engineer roles at salesforce in remote. ||| software engineer ||| salesforce ||| remote ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+what should i for a sre position at netflix (location: nyc)? ||| sre ||| netflix ||| nyc ||| a globally distributed url shortener.,System Design
+i'm preparing for a sre interview at pinterest in melbourne. can you give mock questions? ||| sre ||| pinterest ||| melbourne ||| logging ingestion at 10m events/sec.,System Design
+give me common interview problems for sre roles at google in remote. ||| sre ||| google ||| remote ||| implement an lru cache with o(1) operations.,Technical
+i'm preparing for a backend engineer interview at stripe in remote. can you give mock questions? ||| backend engineer ||| stripe ||| remote ||| compute running median from a data stream.,OA
+i'm preparing for a backend engineer interview at microsoft in chicago. can you give mock questions? ||| backend engineer ||| microsoft ||| chicago ||| how would you detect data drift and trigger model retraining?,ML Case Study
+what should i for a data engineer position at linkedin (location: nyc)? ||| data engineer ||| linkedin ||| nyc ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+what should i for a frontend engineer position at microsoft (location: hyderabad)? ||| frontend engineer ||| microsoft ||| hyderabad ||| implement an lru cache with o(1) operations.,Technical
+help me practice for data engineer interviews at twitter located in seattle. ||| data engineer ||| twitter ||| seattle ||| a recommendation for short video feed.,System Design
+give me common interview problems for engineer roles at pinterest in toronto. ||| engineer ||| pinterest ||| toronto ||| logging ingestion at 10m events/sec.,System Design
+what should i for a product manager position at adobe (location: seattle)? ||| product manager ||| adobe ||| seattle ||| find the longest consecutive sequence length.,Technical
+what should i for a frontend engineer position at linkedin (location: remote)? ||| frontend engineer ||| linkedin ||| remote ||| serialize and deserialize a binary tree.,Technical
+what should i for a sre position at google (location: berlin)? ||| sre ||| google ||| berlin ||| a recommendation for short video feed.,System Design
+help me practice for software engineer interviews at google located in seattle. ||| software engineer ||| google ||| seattle ||| a recommendation for short video feed.,System Design
+i'm preparing for a engineer interview at salesforce in singapore. can you give mock questions? ||| engineer ||| salesforce ||| singapore ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+i have an interview for data scientist at adobe in dublin — what mock questions should i expect? ||| data scientist ||| adobe ||| dublin ||| describe a time you failed and what you learned.,Behavioral/HR
+i have an interview for frontend engineer at twitter in berlin — what mock questions should i expect? ||| frontend engineer ||| twitter ||| berlin ||| implement two-sum with optimal complexity.,OA
+what should i for a engineer position at linkedin (location: sydney)? ||| engineer ||| linkedin ||| sydney ||| an offline/online training pipeline for user embeddings.,ML Case Study
+give me common interview problems for backend engineer roles at intuit in la. ||| backend engineer ||| intuit ||| la ||| compute running median from a data stream.,OA
+i have an interview for product manager at meta in nyc — what mock questions should i expect? ||| product manager ||| meta ||| nyc ||| a monitoring/alerting for microservices.,System Design
+i'm preparing for a sre interview at airbnb in munich. can you give mock questions? ||| sre ||| airbnb ||| munich ||| a recommendation for short video feed.,System Design
+give me common interview problems for product manager roles at amazon in sydney. ||| product manager ||| amazon ||| sydney ||| a globally distributed url shortener.,System Design
+i have an interview for product manager at nvidia in singapore — what mock questions should i expect? ||| product manager ||| nvidia ||| singapore ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+help me practice for software engineer interviews at airbnb located in bay area. ||| software engineer ||| airbnb ||| bay area ||| find the longest consecutive sequence length.,Technical
+i'm preparing for a security engineer interview at linkedin in vancouver. can you give mock questions? ||| security engineer ||| linkedin ||| vancouver ||| describe a time you failed and what you learned.,Behavioral/HR
+i'm preparing for a engineer interview at netflix in austin. can you give mock questions? ||| engineer ||| netflix ||| austin ||| an offline/online training pipeline for user embeddings.,ML Case Study
+help me practice for sre interviews at uber located in berlin. ||| sre ||| uber ||| berlin ||| implement union-find with path compression.,Technical
+help me practice for frontend engineer interviews at google located in melbourne. ||| frontend engineer ||| google ||| melbourne ||| count islands in a binary matrix using dfs/bfs.,OA
+i'm preparing for a frontend engineer interview at nvidia in munich. can you give mock questions? ||| frontend engineer ||| nvidia ||| munich ||| implement two-sum with optimal complexity.,OA
+give me common interview problems for security engineer roles at airbnb in austin. ||| security engineer ||| airbnb ||| austin ||| how would you detect data drift and trigger model retraining?,ML Case Study
+"give me common interview problems for data engineer roles at reddit in munich. ||| data engineer ||| reddit ||| munich ||| given intervals, merge overlapping ones.",Technical
+help me practice for engineer interviews at adobe located in london. ||| engineer ||| adobe ||| london ||| propose an evaluation plan for a recommendation model with cold-start users.,ML Case Study
+what should i for a backend engineer position at netflix (location: hyderabad)? ||| backend engineer ||| netflix ||| hyderabad ||| a scalable feature store for training/inference.,System Design
+i'm preparing for a backend engineer interview at shopify in bay area. can you give mock questions? ||| backend engineer ||| shopify ||| bay area ||| implement union-find with path compression.,Technical
+help me practice for product manager interviews at twitter located in sydney. ||| product manager ||| twitter ||| sydney ||| a messaging queue with at-least-once delivery.,System Design
+help me practice for backend engineer interviews at stripe located in sydney. ||| backend engineer ||| stripe ||| sydney ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+i'm preparing for a data engineer interview at airbnb in munich. can you give mock questions? ||| data engineer ||| airbnb ||| munich ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+what should i for a sre position at pinterest (location: bangalore)? ||| sre ||| pinterest ||| bangalore ||| implement union-find with path compression.,Technical
+i'm preparing for a engineer interview at amazon in toronto. can you give mock questions? ||| engineer ||| amazon ||| toronto ||| implement two-sum with optimal complexity.,OA
+give me common interview problems for security engineer roles at linkedin in bangalore. ||| security engineer ||| linkedin ||| bangalore ||| a monitoring/alerting for microservices.,System Design
+i have an interview for sre at twitter in hyderabad — what mock questions should i expect? ||| sre ||| twitter ||| hyderabad ||| how would you detect data drift and trigger model retraining?,ML Case Study
+help me practice for data scientist interviews at stripe located in hyderabad. ||| data scientist ||| stripe ||| hyderabad ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+i have an interview for qa engineer at salesforce in dublin — what mock questions should i expect? ||| qa engineer ||| salesforce ||| dublin ||| compute running median from a data stream.,OA
+what should i for a qa engineer position at microsoft (location: singapore)? ||| qa engineer ||| microsoft ||| singapore ||| a real-time ride-hailing dispatch .,System Design
+help me practice for sre interviews at uber located in dublin. ||| sre ||| uber ||| dublin ||| implement two-sum with optimal complexity.,OA
+help me practice for engineer interviews at reddit located in dublin. ||| engineer ||| reddit ||| dublin ||| an offline/online training pipeline for user embeddings.,ML Case Study
+give me common interview problems for security engineer roles at microsoft in la. ||| security engineer ||| microsoft ||| la ||| a real-time ride-hailing dispatch .,System Design
+"i have an interview for software engineer at amazon in melbourne — what mock questions should i expect? ||| software engineer ||| amazon ||| melbourne ||| given intervals, merge overlapping ones.",Technical
+what should i for a software engineer position at intuit (location: berlin)? ||| software engineer ||| intuit ||| berlin ||| a rate limiter supporting sliding window semantics.,Technical
+i'm preparing for a security engineer interview at linkedin in seattle. can you give mock questions? ||| security engineer ||| linkedin ||| seattle ||| implement two-sum with optimal complexity.,OA
+give me common interview problems for qa engineer roles at pinterest in singapore. ||| qa engineer ||| pinterest ||| singapore ||| a messaging queue with at-least-once delivery.,System Design
+i'm preparing for a frontend engineer interview at shopify in boston. can you give mock questions? ||| frontend engineer ||| shopify ||| boston ||| an offline/online training pipeline for user embeddings.,ML Case Study
+what should i for a sre position at reddit (location: nyc)? ||| sre ||| reddit ||| nyc ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+what should i for a backend engineer position at meta (location: la)? ||| backend engineer ||| meta ||| la ||| implement two-sum with optimal complexity.,OA
+i'm preparing for a qa engineer interview at stripe in munich. can you give mock questions? ||| qa engineer ||| stripe ||| munich ||| describe a time you failed and what you learned.,Behavioral/HR
+what should i for a data engineer position at linkedin (location: paris)? ||| data engineer ||| linkedin ||| paris ||| compute running median from a data stream.,OA
+what should i for a product manager position at reddit (location: london)? ||| product manager ||| reddit ||| london ||| a scalable feature store for training/inference.,System Design
+"i have an interview for product manager at netflix in la — what mock questions should i expect? ||| product manager ||| netflix ||| la ||| given intervals, merge overlapping ones.",Technical
+give me common interview problems for backend engineer roles at apple in munich. ||| backend engineer ||| apple ||| munich ||| count islands in a binary matrix using dfs/bfs.,OA
+i'm preparing for a sre interview at uber in bangalore. can you give mock questions? ||| sre ||| uber ||| bangalore ||| count islands in a binary matrix using dfs/bfs.,OA
+what should i for a frontend engineer position at uber (location: seattle)? ||| frontend engineer ||| uber ||| seattle ||| describe a time you failed and what you learned.,Behavioral/HR
+i'm preparing for a engineer interview at apple in paris. can you give mock questions? ||| engineer ||| apple ||| paris ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+i have an interview for security engineer at dropbox in london — what mock questions should i expect? ||| security engineer ||| dropbox ||| london ||| an offline/online training pipeline for user embeddings.,ML Case Study
+help me practice for software engineer interviews at twitter located in toronto. ||| software engineer ||| twitter ||| toronto ||| a scalable feature store for training/inference.,System Design
+give me common interview problems for engineer roles at salesforce in hyderabad. ||| engineer ||| salesforce ||| hyderabad ||| a monitoring/alerting for microservices.,System Design
+help me practice for software engineer interviews at dropbox located in paris. ||| software engineer ||| dropbox ||| paris ||| how would you detect data drift and trigger model retraining?,ML Case Study
+give me common interview problems for data scientist roles at pinterest in munich. ||| data scientist ||| pinterest ||| munich ||| describe a time you failed and what you learned.,Behavioral/HR
+give me common interview problems for engineer roles at dropbox in la. ||| engineer ||| dropbox ||| la ||| compute running median from a data stream.,OA
+i have an interview for product manager at netflix in la — what mock questions should i expect? ||| product manager ||| netflix ||| la ||| top-k frequent elements using a heap.,Technical
+give me common interview problems for software engineer roles at reddit in hyderabad. ||| software engineer ||| reddit ||| hyderabad ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+i'm preparing for a frontend engineer interview at snap in sydney. can you give mock questions? ||| frontend engineer ||| snap ||| sydney ||| an offline/online training pipeline for user embeddings.,ML Case Study
+give me common interview problems for software engineer roles at reddit in chicago. ||| software engineer ||| reddit ||| chicago ||| a globally distributed url shortener.,System Design
+i'm preparing for a security engineer interview at nvidia in paris. can you give mock questions? ||| security engineer ||| nvidia ||| paris ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+give me common interview problems for software engineer roles at salesforce in seattle. ||| software engineer ||| salesforce ||| seattle ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+i'm preparing for a engineer interview at google in paris. can you give mock questions? ||| engineer ||| google ||| paris ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+help me practice for security engineer interviews at twitter located in remote. ||| security engineer ||| twitter ||| remote ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+"what should i for a data scientist position at uber (location: bay area)? ||| data scientist ||| uber ||| bay area ||| given a string, return length of longest substring without repeating characters.",OA
+i have an interview for software engineer at netflix in remote — what mock questions should i expect? ||| software engineer ||| netflix ||| remote ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+what should i for a frontend engineer position at microsoft (location: nyc)? ||| frontend engineer ||| microsoft ||| nyc ||| top-k frequent elements using a heap.,Technical
+help me practice for software engineer interviews at adobe located in berlin. ||| software engineer ||| adobe ||| berlin ||| count islands in a binary matrix using dfs/bfs.,OA
+what should i for a backend engineer position at meta (location: seattle)? ||| backend engineer ||| meta ||| seattle ||| implement two-sum with optimal complexity.,OA
+what should i for a backend engineer position at salesforce (location: vancouver)? ||| backend engineer ||| salesforce ||| vancouver ||| a recommendation for short video feed.,System Design
+i'm preparing for a frontend engineer interview at linkedin in singapore. can you give mock questions? ||| frontend engineer ||| linkedin ||| singapore ||| compute running median from a data stream.,OA
+give me common interview problems for sre roles at twitter in hyderabad. ||| sre ||| twitter ||| hyderabad ||| count islands in a binary matrix using dfs/bfs.,OA
+"i have an interview for security engineer at linkedin in toronto — what mock questions should i expect? ||| security engineer ||| linkedin ||| toronto ||| given a string, return length of longest substring without repeating characters.",OA
+i have an interview for software engineer at twitter in melbourne — what mock questions should i expect? ||| software engineer ||| twitter ||| melbourne ||| serialize and deserialize a binary tree.,Technical
+what should i for a engineer position at meta (location: paris)? ||| engineer ||| meta ||| paris ||| an offline/online training pipeline for user embeddings.,ML Case Study
+give me common interview problems for frontend engineer roles at uber in la. ||| frontend engineer ||| uber ||| la ||| how would you detect data drift and trigger model retraining?,ML Case Study
+help me practice for sre interviews at linkedin located in la. ||| sre ||| linkedin ||| la ||| find the longest consecutive sequence length.,Technical
+give me common interview problems for software engineer roles at google in melbourne. ||| software engineer ||| google ||| melbourne ||| a monitoring/alerting for microservices.,System Design
+help me practice for data engineer interviews at apple located in austin. ||| data engineer ||| apple ||| austin ||| serialize and deserialize a binary tree.,Technical
+i'm preparing for a product manager interview at pinterest in bangalore. can you give mock questions? ||| product manager ||| pinterest ||| bangalore ||| an offline/online training pipeline for user embeddings.,ML Case Study
+"help me practice for backend engineer interviews at pinterest located in austin. ||| backend engineer ||| pinterest ||| austin ||| given a string, return length of longest substring without repeating characters.",OA
+help me practice for product manager interviews at uber located in austin. ||| product manager ||| uber ||| austin ||| count islands in a binary matrix using dfs/bfs.,OA
+"what should i for a qa engineer position at microsoft (location: melbourne)? ||| qa engineer ||| microsoft ||| melbourne ||| given a string, return length of longest substring without repeating characters.",OA
+i have an interview for data engineer at uber in london — what mock questions should i expect? ||| data engineer ||| uber ||| london ||| count islands in a binary matrix using dfs/bfs.,OA
+help me practice for data scientist interviews at nvidia located in bangalore. ||| data scientist ||| nvidia ||| bangalore ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+what should i for a backend engineer position at nvidia (location: toronto)? ||| backend engineer ||| nvidia ||| toronto ||| top-k frequent elements using a heap.,Technical
+"i have an interview for data engineer at stripe in sydney — what mock questions should i expect? ||| data engineer ||| stripe ||| sydney ||| given a string, return length of longest substring without repeating characters.",OA
+i'm preparing for a qa engineer interview at uber in remote. can you give mock questions? ||| qa engineer ||| uber ||| remote ||| a real-time ride-hailing dispatch .,System Design
+help me practice for backend engineer interviews at salesforce located in hyderabad. ||| backend engineer ||| salesforce ||| hyderabad ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+help me practice for software engineer interviews at adobe located in dublin. ||| software engineer ||| adobe ||| dublin ||| logging ingestion at 10m events/sec.,System Design
+i have an interview for data engineer at airbnb in remote — what mock questions should i expect? ||| data engineer ||| airbnb ||| remote ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+"i'm preparing for a security engineer interview at netflix in boston. can you give mock questions? ||| security engineer ||| netflix ||| boston ||| given a string, return length of longest substring without repeating characters.",OA
+i'm preparing for a engineer interview at uber in vancouver. can you give mock questions? ||| engineer ||| uber ||| vancouver ||| a messaging queue with at-least-once delivery.,System Design
+what should i for a data engineer position at adobe (location: dublin)? ||| data engineer ||| adobe ||| dublin ||| a scalable feature store for training/inference.,System Design
+what should i for a backend engineer position at uber (location: austin)? ||| backend engineer ||| uber ||| austin ||| a globally distributed url shortener.,System Design
+i have an interview for sre at meta in austin — what mock questions should i expect? ||| sre ||| meta ||| austin ||| how would you detect data drift and trigger model retraining?,ML Case Study
+give me common interview problems for software engineer roles at google in singapore. ||| software engineer ||| google ||| singapore ||| count islands in a binary matrix using dfs/bfs.,OA
+i have an interview for qa engineer at snap in melbourne — what mock questions should i expect? ||| qa engineer ||| snap ||| melbourne ||| serialize and deserialize a binary tree.,Technical
+help me practice for data engineer interviews at adobe located in singapore. ||| data engineer ||| adobe ||| singapore ||| describe a time you failed and what you learned.,Behavioral/HR
+i'm preparing for a engineer interview at amazon in london. can you give mock questions? ||| engineer ||| amazon ||| london ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+i'm preparing for a backend engineer interview at meta in melbourne. can you give mock questions? ||| backend engineer ||| meta ||| melbourne ||| implement dijkstra's algorithm for sparse graphs.,Technical
+i have an interview for data scientist at nvidia in boston — what mock questions should i expect? ||| data scientist ||| nvidia ||| boston ||| implement an lru cache with o(1) operations.,Technical
+i'm preparing for a qa engineer interview at pinterest in seattle. can you give mock questions? ||| qa engineer ||| pinterest ||| seattle ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+i have an interview for frontend engineer at microsoft in boston — what mock questions should i expect? ||| frontend engineer ||| microsoft ||| boston ||| describe a time you failed and what you learned.,Behavioral/HR
+what should i for a software engineer position at twitter (location: paris)? ||| software engineer ||| twitter ||| paris ||| how would you detect data drift and trigger model retraining?,ML Case Study
+i have an interview for qa engineer at apple in sydney — what mock questions should i expect? ||| qa engineer ||| apple ||| sydney ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+give me common interview problems for engineer roles at uber in bay area. ||| engineer ||| uber ||| bay area ||| propose an evaluation plan for a recommendation model with cold-start users.,ML Case Study
+give me common interview problems for engineer roles at meta in la. ||| engineer ||| meta ||| la ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+give me common interview problems for engineer roles at amazon in melbourne. ||| engineer ||| amazon ||| melbourne ||| a messaging queue with at-least-once delivery.,System Design
+i have an interview for backend engineer at microsoft in singapore — what mock questions should i expect? ||| backend engineer ||| microsoft ||| singapore ||| top-k frequent elements using a heap.,Technical
+what should i for a software engineer position at intuit (location: munich)? ||| software engineer ||| intuit ||| munich ||| top-k frequent elements using a heap.,Technical
+what should i for a qa engineer position at netflix (location: bangalore)? ||| qa engineer ||| netflix ||| bangalore ||| implement union-find with path compression.,Technical
+help me practice for product manager interviews at pinterest located in london. ||| product manager ||| pinterest ||| london ||| a monitoring/alerting for microservices.,System Design
+give me common interview problems for qa engineer roles at dropbox in paris. ||| qa engineer ||| dropbox ||| paris ||| serialize and deserialize a binary tree.,Technical
+i'm preparing for a software engineer interview at airbnb in dublin. can you give mock questions? ||| software engineer ||| airbnb ||| dublin ||| serialize and deserialize a binary tree.,Technical
+give me common interview problems for security engineer roles at adobe in la. ||| security engineer ||| adobe ||| la ||| a rate limiter supporting sliding window semantics.,Technical
+help me practice for engineer interviews at intuit located in berlin. ||| engineer ||| intuit ||| berlin ||| top-k frequent elements using a heap.,Technical
+i'm preparing for a sre interview at stripe in la. can you give mock questions? ||| sre ||| stripe ||| la ||| how would you detect data drift and trigger model retraining?,ML Case Study
+what should i for a product manager position at amazon (location: sydney)? ||| product manager ||| amazon ||| sydney ||| a rate limiter supporting sliding window semantics.,Technical
+help me practice for qa engineer interviews at linkedin located in munich. ||| qa engineer ||| linkedin ||| munich ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+help me practice for software engineer interviews at snap located in toronto. ||| software engineer ||| snap ||| toronto ||| a recommendation for short video feed.,System Design
+give me common interview problems for engineer roles at reddit in seattle. ||| engineer ||| reddit ||| seattle ||| a globally distributed url shortener.,System Design
+help me practice for software engineer interviews at uber located in bay area. ||| software engineer ||| uber ||| bay area ||| a recommendation for short video feed.,System Design
+what should i for a software engineer position at intuit (location: melbourne)? ||| software engineer ||| intuit ||| melbourne ||| a globally distributed url shortener.,System Design
+help me practice for qa engineer interviews at apple located in nyc. ||| qa engineer ||| apple ||| nyc ||| compute running median from a data stream.,OA
+"help me practice for qa engineer interviews at dropbox located in bay area. ||| qa engineer ||| dropbox ||| bay area ||| given intervals, merge overlapping ones.",Technical
+help me practice for frontend engineer interviews at meta located in toronto. ||| frontend engineer ||| meta ||| toronto ||| implement two-sum with optimal complexity.,OA
+give me common interview problems for security engineer roles at nvidia in melbourne. ||| security engineer ||| nvidia ||| melbourne ||| compute running median from a data stream.,OA
+i have an interview for data engineer at uber in singapore — what mock questions should i expect? ||| data engineer ||| uber ||| singapore ||| an offline/online training pipeline for user embeddings.,ML Case Study
+help me practice for security engineer interviews at pinterest located in toronto. ||| security engineer ||| pinterest ||| toronto ||| a rate limiter supporting sliding window semantics.,Technical
+help me practice for engineer interviews at stripe located in toronto. ||| engineer ||| stripe ||| toronto ||| a messaging queue with at-least-once delivery.,System Design
+"i have an interview for sre at airbnb in melbourne — what mock questions should i expect? ||| sre ||| airbnb ||| melbourne ||| given a string, return length of longest substring without repeating characters.",OA
+what should i for a engineer position at amazon (location: dublin)? ||| engineer ||| amazon ||| dublin ||| serialize and deserialize a binary tree.,Technical
+i have an interview for data scientist at nvidia in bangalore — what mock questions should i expect? ||| data scientist ||| nvidia ||| bangalore ||| a rate limiter supporting sliding window semantics.,Technical
+give me common interview problems for sre roles at airbnb in dublin. ||| sre ||| airbnb ||| dublin ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+help me practice for product manager interviews at adobe located in toronto. ||| product manager ||| adobe ||| toronto ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+"give me common interview problems for frontend engineer roles at dropbox in hyderabad. ||| frontend engineer ||| dropbox ||| hyderabad ||| given intervals, merge overlapping ones.",Technical
+help me practice for security engineer interviews at reddit located in bay area. ||| security engineer ||| reddit ||| bay area ||| implement two-sum with optimal complexity.,OA
+"i'm preparing for a frontend engineer interview at adobe in la. can you give mock questions? ||| frontend engineer ||| adobe ||| la ||| given a string, return length of longest substring without repeating characters.",OA
+i'm preparing for a security engineer interview at netflix in vancouver. can you give mock questions? ||| security engineer ||| netflix ||| vancouver ||| a rate limiter supporting sliding window semantics.,Technical
+what should i for a product manager position at shopify (location: la)? ||| product manager ||| shopify ||| la ||| implement two-sum with optimal complexity.,OA
+what should i for a qa engineer position at shopify (location: austin)? ||| qa engineer ||| shopify ||| austin ||| compute running median from a data stream.,OA
+what should i for a sre position at microsoft (location: munich)? ||| sre ||| microsoft ||| munich ||| a globally distributed url shortener.,System Design
+i have an interview for security engineer at twitter in berlin — what mock questions should i expect? ||| security engineer ||| twitter ||| berlin ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+i'm preparing for a security engineer interview at microsoft in nyc. can you give mock questions? ||| security engineer ||| microsoft ||| nyc ||| a scalable feature store for training/inference.,System Design
+i'm preparing for a backend engineer interview at linkedin in toronto. can you give mock questions? ||| backend engineer ||| linkedin ||| toronto ||| describe a time you failed and what you learned.,Behavioral/HR
+i have an interview for security engineer at microsoft in seattle — what mock questions should i expect? ||| security engineer ||| microsoft ||| seattle ||| describe a time you failed and what you learned.,Behavioral/HR
+give me common interview problems for software engineer roles at google in austin. ||| software engineer ||| google ||| austin ||| a monitoring/alerting for microservices.,System Design
+help me practice for frontend engineer interviews at apple located in toronto. ||| frontend engineer ||| apple ||| toronto ||| implement an lru cache with o(1) operations.,Technical
+help me practice for data scientist interviews at linkedin located in paris. ||| data scientist ||| linkedin ||| paris ||| a messaging queue with at-least-once delivery.,System Design
+give me common interview problems for data scientist roles at reddit in bay area. ||| data scientist ||| reddit ||| bay area ||| a messaging queue with at-least-once delivery.,System Design
+what should i for a engineer position at amazon (location: remote)? ||| engineer ||| amazon ||| remote ||| an offline/online training pipeline for user embeddings.,ML Case Study
+i have an interview for frontend engineer at microsoft in singapore — what mock questions should i expect? ||| frontend engineer ||| microsoft ||| singapore ||| compute running median from a data stream.,OA
+what should i for a data engineer position at linkedin (location: singapore)? ||| data engineer ||| linkedin ||| singapore ||| a rate limiter supporting sliding window semantics.,Technical
+i have an interview for qa engineer at dropbox in sydney — what mock questions should i expect? ||| qa engineer ||| dropbox ||| sydney ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+help me practice for data engineer interviews at intuit located in singapore. ||| data engineer ||| intuit ||| singapore ||| compute running median from a data stream.,OA
+give me common interview problems for data scientist roles at snap in hyderabad. ||| data scientist ||| snap ||| hyderabad ||| an offline/online training pipeline for user embeddings.,ML Case Study
+i have an interview for qa engineer at amazon in munich — what mock questions should i expect? ||| qa engineer ||| amazon ||| munich ||| a messaging queue with at-least-once delivery.,System Design
+i have an interview for backend engineer at stripe in singapore — what mock questions should i expect? ||| backend engineer ||| stripe ||| singapore ||| a messaging queue with at-least-once delivery.,System Design
+i have an interview for data scientist at snap in munich — what mock questions should i expect? ||| data scientist ||| snap ||| munich ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+help me practice for frontend engineer interviews at stripe located in bay area. ||| frontend engineer ||| stripe ||| bay area ||| top-k frequent elements using a heap.,Technical
+give me common interview problems for qa engineer roles at stripe in dublin. ||| qa engineer ||| stripe ||| dublin ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+what should i for a data scientist position at amazon (location: chicago)? ||| data scientist ||| amazon ||| chicago ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+what should i for a data scientist position at airbnb (location: paris)? ||| data scientist ||| airbnb ||| paris ||| tell me about a project where you had to learn something quickly.,Behavioral/HR
+"give me common interview problems for data scientist roles at salesforce in chicago. ||| data scientist ||| salesforce ||| chicago ||| given a string, return length of longest substring without repeating characters.",OA
+i'm preparing for a security engineer interview at intuit in toronto. can you give mock questions? ||| security engineer ||| intuit ||| toronto ||| compute running median from a data stream.,OA
+what should i for a sre position at snap (location: remote)? ||| sre ||| snap ||| remote ||| describe a time you failed and what you learned.,Behavioral/HR
+what should i for a product manager position at linkedin (location: singapore)? ||| product manager ||| linkedin ||| singapore ||| compute running median from a data stream.,OA
+i have an interview for product manager at pinterest in berlin — what mock questions should i expect? ||| product manager ||| pinterest ||| berlin ||| how would you detect data drift and trigger model retraining?,ML Case Study
+"what should i for a security engineer position at pinterest (location: remote)? ||| security engineer ||| pinterest ||| remote ||| given a string, return length of longest substring without repeating characters.",OA
+help me practice for data engineer interviews at snap located in munich. ||| data engineer ||| snap ||| munich ||| a real-time ride-hailing dispatch .,System Design
+give me common interview problems for engineer roles at nvidia in boston. ||| engineer ||| nvidia ||| boston ||| count islands in a binary matrix using dfs/bfs.,OA
+help me practice for frontend engineer interviews at meta located in melbourne. ||| frontend engineer ||| meta ||| melbourne ||| compute running median from a data stream.,OA
+"i'm preparing for a backend engineer interview at pinterest in chicago. can you give mock questions? ||| backend engineer ||| pinterest ||| chicago ||| given a string, return length of longest substring without repeating characters.",OA
+give me common interview problems for qa engineer roles at stripe in dublin. ||| qa engineer ||| stripe ||| dublin ||| describe a conflict with a teammate and how you resolved it.,Behavioral/HR
+what should i for a qa engineer position at dropbox (location: paris)? ||| qa engineer ||| dropbox ||| paris ||| propose an evaluation plan for a recommendation model with cold-start users.,ML Case Study
+help me practice for engineer interviews at nvidia located in seattle. ||| engineer ||| nvidia ||| seattle ||| count islands in a binary matrix using dfs/bfs.,OA
+give me common interview problems for security engineer roles at nvidia in singapore. ||| security engineer ||| nvidia ||| singapore ||| count islands in a binary matrix using dfs/bfs.,OA
+i have an interview for software engineer at twitter in nyc — what mock questions should i expect? ||| software engineer ||| twitter ||| nyc ||| an offline/online training pipeline for user embeddings.,ML Case Study
+i have an interview for frontend engineer at amazon in dublin — what mock questions should i expect? ||| frontend engineer ||| amazon ||| dublin ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+help me practice for software engineer interviews at uber located in munich. ||| software engineer ||| uber ||| munich ||| a monitoring/alerting for microservices.,System Design
+"help me practice for software engineer interviews at dropbox located in paris. ||| software engineer ||| dropbox ||| paris ||| given intervals, merge overlapping ones.",Technical
+give me common interview problems for backend engineer roles at meta in paris. ||| backend engineer ||| meta ||| paris ||| an offline/online training pipeline for user embeddings.,ML Case Study
+give me common interview problems for security engineer roles at nvidia in nyc. ||| security engineer ||| nvidia ||| nyc ||| implement two-sum with optimal complexity.,OA
+i have an interview for frontend engineer at reddit in hyderabad — what mock questions should i expect? ||| frontend engineer ||| reddit ||| hyderabad ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+i'm preparing for a software engineer interview at reddit in boston. can you give mock questions? ||| software engineer ||| reddit ||| boston ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+give me common interview problems for data scientist roles at reddit in la. ||| data scientist ||| reddit ||| la ||| propose an evaluation plan for a recommendation model with cold-start users.,ML Case Study
+give me common interview problems for data scientist roles at salesforce in toronto. ||| data scientist ||| salesforce ||| toronto ||| tell me about a time you handled an ambiguous requirement.,Behavioral/HR
+i'm preparing for a frontend engineer interview at linkedin in london. can you give mock questions? ||| frontend engineer ||| linkedin ||| london ||| an offline/online training pipeline for user embeddings.,ML Case Study
+what should i for a data engineer position at apple (location: berlin)? ||| data engineer ||| apple ||| berlin ||| how to measure fairness and bias in a loan prediction model?,ML Case Study
+what should i for a engineer position at uber (location: nyc)? ||| engineer ||| uber ||| nyc ||| an offline/online training pipeline for user embeddings.,ML Case Study
+i have an interview for sre at google in remote — what mock questions should i expect? ||| sre ||| google ||| remote ||| an offline/online training pipeline for user embeddings.,ML Case Study
+help me practice for backend engineer interviews at dropbox located in london. ||| backend engineer ||| dropbox ||| london ||| a recommendation for short video feed.,System Design
+help me practice for security engineer interviews at airbnb located in berlin. ||| security engineer ||| airbnb ||| berlin ||| top-k frequent elements using a heap.,Technical

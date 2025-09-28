@@ -5,7 +5,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score
 from neural_network_model import NeuralNetwork
 
-CSV_PATH        = "../EduPilot_dataset_2000.csv"
+CSV_PATH        = "assignment-2/EduPilot_dataset_2000.csv"
 SEED            = 42
 MAX_FEATURES    = 2000
 HIDDEN_UNITS    = 128
