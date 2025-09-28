@@ -13,6 +13,7 @@
 * [Vulnerabilities & Implications](#vulnerabilities--implications)
 * [How to Run the Code](#how-to-run-the-code)
 * [References](#references)
+* [LLM usage and References][#llm-usage-and-references]
 
 ---
 
@@ -241,8 +242,11 @@ python graph_plotting_fedsgd.py
 
 ---
 
-## References
+## LLM usage and References
+### LLM usage for report 
+Except for the code, llm was also used to get information from the provided research papers using the Q/A approach taught by the instrcutor. LLM was given the answers to the report questions and the summaries to check/verify from the paper one last time before submission. The small tweaks it suggested were sometimes adopted. It was asked to rewrite some answers and summaries in a better and polished way and sometimes asked to add a few more detailes to them in case they felt really short.
 
+### References
 * McMahan et al., 2017. *Communication-Efficient Learning of Deep Networks from Decentralized Data* (FedAvg).
 * Yin et al., 2018. *Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates* (FedMedian).
 * Carlini et al., 2022. *Membership Inference Attacks from First Principles* (for vulnerabilities).
