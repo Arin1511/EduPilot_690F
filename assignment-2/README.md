@@ -12,7 +12,6 @@
 * [Performance Comparison](#performance-comparison)
 * [Vulnerabilities & Implications](#vulnerabilities--implications)
 * [How to Run the Code](#how-to-run-the-code)
-* [References](#references)
 * [LLM usage and References][#llm-usage-and-references]
 
 ---
