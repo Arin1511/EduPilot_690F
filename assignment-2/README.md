@@ -166,7 +166,7 @@ EduPilot is designed to help job-seekers practice for interviews by generating r
 
 ## How to Run the Code
 
-# Please follow below instructions to get the comparisons using FedAvg Aggregator.
+### Please follow below instructions to get the comparisons using FedAvg Aggregator.
 
 From repo root
 cd assignment-2/federated_learning_fedAvg
@@ -193,7 +193,7 @@ python graph_plotting.py
 -> fl_iid_vs_non_iid_vs_central.png
 
 
-# Please follow below instructions to get the comparisons using FedMedian Aggregator.
+### Please follow below instructions to get the comparisons using FedMedian Aggregator.
 
 From repo root
 cd assignment-2/federated_learning_fedMedian
@@ -214,7 +214,7 @@ step 4) Plot FedMedian vs Centralized
 python graph_plotting_fedmedian.py
 -> fedMedianPlot.png
    
-# Please follow below instructions to get the comparisons using FedSgd Aggregator.
+### Please follow below instructions to get the comparisons using FedSgd Aggregator.
 
 From repo root
 cd assignment-2/federated_learning_fedSgd
